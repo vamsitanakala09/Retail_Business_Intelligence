@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Name,City,Category,Product,Quantity,Unit_Price,Unit_Cost,Revenue,Profit,Payment_Method
+ORD0001,2025-07-14,Amit Kumar,Bengaluru,Home Appliances,Refrigerator,4,40000,31000,160000,36000,Debit Card
+ORD0002,2025-04-10,Pooja Nair,Hyderabad,Grocery,Rice Bag,2,1800,1400,3600,800,Debit Card
+ORD0003,2025-10-27,Pooja Nair,Bengaluru,Furniture,Chair,4,2500,1800,10000,2800,UPI
+ORD0004,2025-09-20,Amit Kumar,Chennai,Home Appliances,Refrigerator,1,40000,31000,40000,9000,UPI
+ORD0005,2025-04-12,Sneha Patel,Delhi,Furniture,Sofa,2,25000,18000,50000,14000,Cash
+ORD0006,2025-10-25,Sneha Patel,Hyderabad,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Credit Card
+ORD0007,2025-09-26,Neha Gupta,Bengaluru,Electronics,Keyboard,1,1500,900,1500,600,UPI
+ORD0008,2025-02-18,Rahul Sharma,Bengaluru,Grocery,Rice Bag,3,1800,1400,5400,1200,UPI
+ORD0009,2025-01-21,Rahul Sharma,Hyderabad,Home Appliances,Washing Machine,5,35000,27000,175000,40000,Debit Card
+ORD0010,2025-10-23,Priya Reddy,Bengaluru,Fashion,T-Shirt,1,800,300,800,500,Cash
+ORD0011,2025-02-04,Arjun Singh,Mumbai,Furniture,Sofa,1,25000,18000,25000,7000,Credit Card
+ORD0012,2025-01-09,Vamsi Krishna,Chennai,Fashion,Jeans,4,1800,900,7200,3600,UPI
+ORD0013,2025-11-18,Arjun Singh,Hyderabad,Furniture,Chair,1,2500,1800,2500,700,Cash
+ORD0014,2025-09-13,Anjali Mehta,Chennai,Grocery,Rice Bag,4,1800,1400,7200,1600,Cash
+ORD0015,2025-07-19,Pooja Nair,Chennai,Furniture,Sofa,5,25000,18000,125000,35000,Cash
+ORD0016,2025-01-05,Rahul Sharma,Mumbai,Electronics,Laptop,2,65000,52000,130000,26000,Credit Card
+ORD0017,2025-11-30,Priya Reddy,Mumbai,Grocery,Rice Bag,2,1800,1400,3600,800,Debit Card
+ORD0018,2025-12-09,Sneha Patel,Hyderabad,Electronics,Mouse,2,800,450,1600,700,UPI
+ORD0019,2025-10-15,Amit Kumar,Mumbai,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Credit Card
+ORD0020,2025-11-14,Pooja Nair,Bengaluru,Grocery,Rice Bag,2,1800,1400,3600,800,Cash
+ORD0021,2025-10-16,Amit Kumar,Bengaluru,Fashion,T-Shirt,3,800,300,2400,1500,UPI
+ORD0022,2025-01-20,Sneha Patel,Bengaluru,Fashion,T-Shirt,4,800,300,3200,2000,Debit Card
+ORD0023,2025-08-31,Arjun Singh,Bengaluru,Furniture,Chair,1,2500,1800,2500,700,Credit Card
+ORD0024,2025-07-04,Priya Reddy,Mumbai,Electronics,Mobile,3,30000,24000,90000,18000,Debit Card
+ORD0025,2025-06-02,Vamsi Krishna,Hyderabad,Fashion,Jeans,3,1800,900,5400,2700,UPI
+ORD0026,2025-06-22,Arjun Singh,Mumbai,Furniture,Chair,1,2500,1800,2500,700,Debit Card
+ORD0027,2025-05-02,Arjun Singh,Mumbai,Fashion,Jeans,2,1800,900,3600,1800,Cash
+ORD0028,2025-08-19,Arjun Singh,Mumbai,Home Appliances,Refrigerator,4,40000,31000,160000,36000,Credit Card
+ORD0029,2025-08-19,Rohit Verma,Mumbai,Home Appliances,Washing Machine,3,35000,27000,105000,24000,UPI
+ORD0030,2025-02-23,Arjun Singh,Chennai,Furniture,Sofa,5,25000,18000,125000,35000,UPI
+ORD0031,2025-11-14,Rohit Verma,Mumbai,Fashion,T-Shirt,3,800,300,2400,1500,Credit Card
+ORD0032,2025-05-18,Vamsi Krishna,Mumbai,Fashion,Jeans,5,1800,900,9000,4500,Credit Card
+ORD0033,2025-05-29,Rahul Sharma,Mumbai,Home Appliances,Refrigerator,4,40000,31000,160000,36000,Debit Card
+ORD0034,2025-11-10,Rohit Verma,Mumbai,Grocery,Rice Bag,4,1800,1400,7200,1600,Debit Card
+ORD0035,2025-09-10,Anjali Mehta,Mumbai,Home Appliances,Refrigerator,5,40000,31000,200000,45000,Cash
+ORD0036,2025-09-07,Pooja Nair,Mumbai,Home Appliances,Refrigerator,4,40000,31000,160000,36000,UPI
+ORD0037,2025-09-04,Rohit Verma,Mumbai,Electronics,Mobile,1,30000,24000,30000,6000,Credit Card
+ORD0038,2025-12-22,Vamsi Krishna,Bengaluru,Fashion,Jeans,5,1800,900,9000,4500,Credit Card
+ORD0039,2025-09-17,Anjali Mehta,Chennai,Grocery,Rice Bag,1,1800,1400,1800,400,Credit Card
+ORD0040,2025-03-02,Priya Reddy,Mumbai,Fashion,Jeans,4,1800,900,7200,3600,Debit Card
+ORD0041,2025-02-23,Arjun Singh,Mumbai,Grocery,Rice Bag,5,1800,1400,9000,2000,Credit Card
+ORD0042,2025-10-08,Arjun Singh,Mumbai,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Debit Card
+ORD0043,2025-12-26,Vamsi Krishna,Bengaluru,Fashion,T-Shirt,5,800,300,4000,2500,UPI
+ORD0044,2025-12-14,Sneha Patel,Delhi,Furniture,Sofa,2,25000,18000,50000,14000,UPI
+ORD0045,2025-02-23,Rahul Sharma,Bengaluru,Grocery,Rice Bag,1,1800,1400,1800,400,UPI
+ORD0046,2025-04-03,Rahul Sharma,Mumbai,Electronics,Smart Watch,5,12000,8500,60000,17500,UPI
+ORD0047,2025-01-10,Pooja Nair,Bengaluru,Grocery,Rice Bag,5,1800,1400,9000,2000,Cash
+ORD0048,2025-10-02,Neha Gupta,Bengaluru,Furniture,Sofa,5,25000,18000,125000,35000,Credit Card
+ORD0049,2025-03-14,Neha Gupta,Mumbai,Electronics,Mouse,1,800,450,800,350,Credit Card
+ORD0050,2025-05-23,Vamsi Krishna,Hyderabad,Grocery,Rice Bag,1,1800,1400,1800,400,Cash
+ORD0051,2025-11-30,Rahul Sharma,Delhi,Furniture,Sofa,4,25000,18000,100000,28000,Cash
+ORD0052,2025-10-22,Rohit Verma,Delhi,Furniture,Sofa,3,25000,18000,75000,21000,Cash
+ORD0053,2025-09-14,Amit Kumar,Chennai,Grocery,Rice Bag,5,1800,1400,9000,2000,Debit Card
+ORD0054,2025-01-26,Rahul Sharma,Hyderabad,Home Appliances,Refrigerator,2,40000,31000,80000,18000,Debit Card
+ORD0055,2025-06-01,Arjun Singh,Bengaluru,Fashion,T-Shirt,4,800,300,3200,2000,Credit Card
+ORD0056,2025-11-29,Amit Kumar,Hyderabad,Electronics,Mobile,3,30000,24000,90000,18000,Debit Card
+ORD0057,2025-08-03,Arjun Singh,Mumbai,Grocery,Rice Bag,2,1800,1400,3600,800,UPI
+ORD0058,2025-06-20,Neha Gupta,Mumbai,Grocery,Rice Bag,4,1800,1400,7200,1600,UPI
+ORD0059,2025-06-30,Neha Gupta,Delhi,Fashion,T-Shirt,5,800,300,4000,2500,Credit Card
+ORD0060,2025-08-30,Rahul Sharma,Bengaluru,Fashion,Jeans,1,1800,900,1800,900,UPI
+ORD0061,2025-07-29,Amit Kumar,Chennai,Grocery,Rice Bag,5,1800,1400,9000,2000,Debit Card
+ORD0062,2025-03-30,Neha Gupta,Delhi,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Cash
+ORD0063,2025-11-07,Rohit Verma,Mumbai,Grocery,Rice Bag,5,1800,1400,9000,2000,UPI
+ORD0064,2025-08-14,Anjali Mehta,Bengaluru,Fashion,Jeans,1,1800,900,1800,900,Cash
+ORD0065,2025-07-30,Neha Gupta,Chennai,Electronics,Keyboard,2,1500,900,3000,1200,Cash
+ORD0066,2025-10-02,Anjali Mehta,Bengaluru,Furniture,Sofa,3,25000,18000,75000,21000,UPI
+ORD0067,2025-11-05,Rohit Verma,Hyderabad,Electronics,Smart Watch,4,12000,8500,48000,14000,Debit Card
+ORD0068,2025-04-10,Anjali Mehta,Mumbai,Electronics,Mobile,2,30000,24000,60000,12000,Credit Card
+ORD0069,2025-01-16,Neha Gupta,Mumbai,Furniture,Chair,2,2500,1800,5000,1400,UPI
+ORD0070,2025-08-24,Sneha Patel,Bengaluru,Furniture,Chair,5,2500,1800,12500,3500,Credit Card
+ORD0071,2025-03-03,Sneha Patel,Delhi,Electronics,Keyboard,1,1500,900,1500,600,Credit Card
+ORD0072,2025-10-17,Rohit Verma,Chennai,Furniture,Chair,2,2500,1800,5000,1400,Cash
+ORD0073,2025-09-14,Pooja Nair,Chennai,Grocery,Rice Bag,5,1800,1400,9000,2000,Debit Card
+ORD0074,2025-12-31,Rohit Verma,Hyderabad,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Credit Card
+ORD0075,2025-05-05,Amit Kumar,Bengaluru,Electronics,Mobile,5,30000,24000,150000,30000,UPI
+ORD0076,2025-02-07,Vamsi Krishna,Hyderabad,Electronics,Mobile,5,30000,24000,150000,30000,Cash
+ORD0077,2025-05-21,Arjun Singh,Delhi,Furniture,Sofa,3,25000,18000,75000,21000,Credit Card
+ORD0078,2025-09-28,Priya Reddy,Hyderabad,Fashion,T-Shirt,2,800,300,1600,1000,Cash
+ORD0079,2025-03-29,Amit Kumar,Delhi,Electronics,Smart Watch,1,12000,8500,12000,3500,UPI
+ORD0080,2025-12-27,Vamsi Krishna,Mumbai,Furniture,Sofa,4,25000,18000,100000,28000,Cash
+ORD0081,2025-08-03,Rohit Verma,Bengaluru,Electronics,Keyboard,4,1500,900,6000,2400,UPI
+ORD0082,2025-09-17,Rahul Sharma,Hyderabad,Electronics,Laptop,4,65000,52000,260000,52000,Debit Card
+ORD0083,2025-10-12,Rahul Sharma,Hyderabad,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Credit Card
+ORD0084,2025-04-18,Amit Kumar,Bengaluru,Grocery,Rice Bag,5,1800,1400,9000,2000,Credit Card
+ORD0085,2025-04-25,Rohit Verma,Mumbai,Electronics,Smart Watch,2,12000,8500,24000,7000,Credit Card
+ORD0086,2025-10-31,Pooja Nair,Bengaluru,Electronics,Mobile,4,30000,24000,120000,24000,UPI
+ORD0087,2025-03-10,Priya Reddy,Hyderabad,Fashion,Jeans,2,1800,900,3600,1800,Credit Card
+ORD0088,2025-06-04,Vamsi Krishna,Bengaluru,Grocery,Rice Bag,2,1800,1400,3600,800,Credit Card
+ORD0089,2025-08-03,Priya Reddy,Mumbai,Grocery,Rice Bag,1,1800,1400,1800,400,Credit Card
+ORD0090,2025-10-25,Pooja Nair,Chennai,Electronics,Mouse,4,800,450,3200,1400,Cash
+ORD0091,2025-03-18,Neha Gupta,Mumbai,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Cash
+ORD0092,2025-06-28,Arjun Singh,Mumbai,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Credit Card
+ORD0093,2025-08-23,Rahul Sharma,Delhi,Furniture,Sofa,4,25000,18000,100000,28000,Cash
+ORD0094,2025-05-28,Pooja Nair,Bengaluru,Furniture,Chair,1,2500,1800,2500,700,Credit Card
+ORD0095,2025-11-29,Vamsi Krishna,Bengaluru,Furniture,Sofa,5,25000,18000,125000,35000,UPI
+ORD0096,2025-01-28,Rohit Verma,Mumbai,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Debit Card
+ORD0097,2025-08-17,Rohit Verma,Bengaluru,Fashion,T-Shirt,2,800,300,1600,1000,Cash
+ORD0098,2025-03-23,Rohit Verma,Delhi,Electronics,Mouse,5,800,450,4000,1750,Debit Card
+ORD0099,2025-05-11,Arjun Singh,Hyderabad,Grocery,Rice Bag,1,1800,1400,1800,400,Cash
+ORD0100,2025-08-23,Amit Kumar,Delhi,Grocery,Rice Bag,3,1800,1400,5400,1200,Debit Card
+ORD0101,2025-05-10,Amit Kumar,Delhi,Fashion,T-Shirt,5,800,300,4000,2500,Cash
+ORD0102,2025-08-28,Arjun Singh,Mumbai,Fashion,T-Shirt,3,800,300,2400,1500,Debit Card
+ORD0103,2025-04-17,Pooja Nair,Delhi,Furniture,Chair,3,2500,1800,7500,2100,Cash
+ORD0104,2025-05-25,Arjun Singh,Bengaluru,Furniture,Chair,5,2500,1800,12500,3500,UPI
+ORD0105,2025-10-13,Arjun Singh,Delhi,Grocery,Rice Bag,5,1800,1400,9000,2000,Credit Card
+ORD0106,2025-06-04,Amit Kumar,Mumbai,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0107,2025-07-01,Sneha Patel,Chennai,Electronics,Mouse,1,800,450,800,350,Credit Card
+ORD0108,2025-12-10,Arjun Singh,Mumbai,Electronics,Smart Watch,2,12000,8500,24000,7000,UPI
+ORD0109,2025-10-05,Rahul Sharma,Delhi,Electronics,Laptop,3,65000,52000,195000,39000,Debit Card
+ORD0110,2025-12-23,Vamsi Krishna,Mumbai,Electronics,Mouse,4,800,450,3200,1400,Debit Card
+ORD0111,2025-09-30,Sneha Patel,Delhi,Electronics,Mobile,4,30000,24000,120000,24000,UPI
+ORD0112,2025-02-19,Neha Gupta,Mumbai,Electronics,Mobile,3,30000,24000,90000,18000,Credit Card
+ORD0113,2025-10-17,Sneha Patel,Delhi,Furniture,Sofa,5,25000,18000,125000,35000,Debit Card
+ORD0114,2025-01-14,Rohit Verma,Bengaluru,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Cash
+ORD0115,2025-08-25,Neha Gupta,Chennai,Fashion,T-Shirt,3,800,300,2400,1500,Debit Card
+ORD0116,2025-04-05,Rahul Sharma,Bengaluru,Home Appliances,Washing Machine,5,35000,27000,175000,40000,Debit Card
+ORD0117,2025-11-06,Arjun Singh,Hyderabad,Grocery,Rice Bag,2,1800,1400,3600,800,UPI
+ORD0118,2025-11-29,Arjun Singh,Hyderabad,Grocery,Rice Bag,4,1800,1400,7200,1600,Cash
+ORD0119,2025-02-13,Rohit Verma,Mumbai,Grocery,Rice Bag,2,1800,1400,3600,800,UPI
+ORD0120,2025-08-12,Anjali Mehta,Bengaluru,Furniture,Sofa,4,25000,18000,100000,28000,Debit Card
+ORD0121,2025-08-22,Neha Gupta,Delhi,Electronics,Mobile,4,30000,24000,120000,24000,Cash
+ORD0122,2025-09-28,Anjali Mehta,Chennai,Fashion,T-Shirt,4,800,300,3200,2000,Credit Card
+ORD0123,2025-01-15,Neha Gupta,Delhi,Furniture,Sofa,2,25000,18000,50000,14000,Credit Card
+ORD0124,2025-10-11,Rahul Sharma,Delhi,Fashion,Jeans,4,1800,900,7200,3600,Cash
+ORD0125,2025-12-22,Vamsi Krishna,Delhi,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Cash
+ORD0126,2025-05-19,Rahul Sharma,Hyderabad,Electronics,Smart Watch,5,12000,8500,60000,17500,Debit Card
+ORD0127,2025-09-09,Rahul Sharma,Hyderabad,Fashion,T-Shirt,2,800,300,1600,1000,Credit Card
+ORD0128,2025-08-22,Vamsi Krishna,Hyderabad,Furniture,Chair,5,2500,1800,12500,3500,Credit Card
+ORD0129,2025-02-25,Sneha Patel,Mumbai,Furniture,Sofa,3,25000,18000,75000,21000,Cash
+ORD0130,2025-12-08,Sneha Patel,Mumbai,Electronics,Mouse,4,800,450,3200,1400,UPI
+ORD0131,2025-02-13,Rahul Sharma,Hyderabad,Electronics,Smart Watch,1,12000,8500,12000,3500,Cash
+ORD0132,2025-01-25,Anjali Mehta,Delhi,Grocery,Rice Bag,2,1800,1400,3600,800,Debit Card
+ORD0133,2025-05-13,Pooja Nair,Bengaluru,Grocery,Rice Bag,1,1800,1400,1800,400,UPI
+ORD0134,2025-02-28,Arjun Singh,Mumbai,Furniture,Chair,4,2500,1800,10000,2800,Credit Card
+ORD0135,2025-07-09,Anjali Mehta,Chennai,Furniture,Chair,3,2500,1800,7500,2100,Credit Card
+ORD0136,2025-08-08,Amit Kumar,Delhi,Electronics,Smart Watch,2,12000,8500,24000,7000,Cash
+ORD0137,2025-07-13,Rohit Verma,Delhi,Electronics,Smart Watch,3,12000,8500,36000,10500,Debit Card
+ORD0138,2025-06-09,Vamsi Krishna,Delhi,Furniture,Chair,5,2500,1800,12500,3500,Credit Card
+ORD0139,2025-02-28,Pooja Nair,Delhi,Fashion,Jeans,1,1800,900,1800,900,Debit Card
+ORD0140,2025-07-28,Arjun Singh,Mumbai,Fashion,Jeans,3,1800,900,5400,2700,Cash
+ORD0141,2025-07-18,Rohit Verma,Bengaluru,Fashion,Jeans,4,1800,900,7200,3600,Debit Card
+ORD0142,2025-10-20,Pooja Nair,Hyderabad,Grocery,Rice Bag,5,1800,1400,9000,2000,Cash
+ORD0143,2025-08-27,Sneha Patel,Delhi,Home Appliances,Refrigerator,1,40000,31000,40000,9000,Cash
+ORD0144,2025-10-13,Vamsi Krishna,Bengaluru,Furniture,Chair,3,2500,1800,7500,2100,Debit Card
+ORD0145,2025-06-01,Neha Gupta,Delhi,Home Appliances,Refrigerator,1,40000,31000,40000,9000,Credit Card
+ORD0146,2025-04-30,Sneha Patel,Hyderabad,Furniture,Sofa,3,25000,18000,75000,21000,UPI
+ORD0147,2025-12-15,Sneha Patel,Bengaluru,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0148,2025-08-13,Rohit Verma,Chennai,Furniture,Chair,4,2500,1800,10000,2800,Debit Card
+ORD0149,2025-06-28,Rahul Sharma,Mumbai,Home Appliances,Refrigerator,5,40000,31000,200000,45000,Debit Card
+ORD0150,2025-06-29,Rahul Sharma,Mumbai,Home Appliances,Refrigerator,2,40000,31000,80000,18000,UPI
+ORD0151,2025-09-14,Rahul Sharma,Delhi,Furniture,Chair,2,2500,1800,5000,1400,UPI
+ORD0152,2025-04-12,Rahul Sharma,Mumbai,Grocery,Rice Bag,3,1800,1400,5400,1200,Cash
+ORD0153,2025-04-26,Rahul Sharma,Delhi,Fashion,Jeans,4,1800,900,7200,3600,Debit Card
+ORD0154,2025-02-22,Pooja Nair,Chennai,Furniture,Sofa,2,25000,18000,50000,14000,Debit Card
+ORD0155,2025-05-22,Priya Reddy,Chennai,Fashion,T-Shirt,3,800,300,2400,1500,Credit Card
+ORD0156,2025-11-14,Anjali Mehta,Chennai,Grocery,Rice Bag,2,1800,1400,3600,800,Debit Card
+ORD0157,2025-05-31,Pooja Nair,Chennai,Grocery,Rice Bag,3,1800,1400,5400,1200,Credit Card
+ORD0158,2025-04-27,Rahul Sharma,Bengaluru,Furniture,Sofa,5,25000,18000,125000,35000,Debit Card
+ORD0159,2025-11-10,Pooja Nair,Bengaluru,Grocery,Rice Bag,1,1800,1400,1800,400,Debit Card
+ORD0160,2025-07-05,Priya Reddy,Bengaluru,Electronics,Mobile,5,30000,24000,150000,30000,UPI
+ORD0161,2025-01-12,Sneha Patel,Chennai,Grocery,Rice Bag,4,1800,1400,7200,1600,Credit Card
+ORD0162,2025-06-11,Arjun Singh,Chennai,Electronics,Keyboard,5,1500,900,7500,3000,Debit Card
+ORD0163,2025-02-05,Rohit Verma,Bengaluru,Grocery,Rice Bag,2,1800,1400,3600,800,Credit Card
+ORD0164,2025-12-13,Pooja Nair,Hyderabad,Electronics,Smart Watch,2,12000,8500,24000,7000,UPI
+ORD0165,2025-01-11,Amit Kumar,Bengaluru,Furniture,Chair,2,2500,1800,5000,1400,Cash
+ORD0166,2025-11-09,Priya Reddy,Hyderabad,Furniture,Sofa,3,25000,18000,75000,21000,Cash
+ORD0167,2025-04-19,Rohit Verma,Hyderabad,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0168,2025-02-12,Pooja Nair,Delhi,Fashion,T-Shirt,1,800,300,800,500,Credit Card
+ORD0169,2025-06-28,Sneha Patel,Delhi,Electronics,Keyboard,1,1500,900,1500,600,Cash
+ORD0170,2025-06-08,Rohit Verma,Bengaluru,Grocery,Rice Bag,5,1800,1400,9000,2000,UPI
+ORD0171,2025-02-23,Sneha Patel,Chennai,Electronics,Laptop,5,65000,52000,325000,65000,Cash
+ORD0172,2025-10-24,Anjali Mehta,Chennai,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Cash
+ORD0173,2025-06-02,Vamsi Krishna,Delhi,Furniture,Sofa,1,25000,18000,25000,7000,Debit Card
+ORD0174,2025-04-18,Amit Kumar,Hyderabad,Electronics,Smart Watch,5,12000,8500,60000,17500,Cash
+ORD0175,2025-03-15,Anjali Mehta,Chennai,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Credit Card
+ORD0176,2025-10-26,Pooja Nair,Chennai,Electronics,Mobile,5,30000,24000,150000,30000,Debit Card
+ORD0177,2025-08-27,Rahul Sharma,Delhi,Electronics,Mouse,5,800,450,4000,1750,Cash
+ORD0178,2025-08-21,Pooja Nair,Hyderabad,Grocery,Rice Bag,1,1800,1400,1800,400,Cash
+ORD0179,2025-11-12,Priya Reddy,Bengaluru,Home Appliances,Refrigerator,1,40000,31000,40000,9000,UPI
+ORD0180,2025-09-22,Pooja Nair,Hyderabad,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Credit Card
+ORD0181,2025-12-21,Vamsi Krishna,Delhi,Electronics,Laptop,2,65000,52000,130000,26000,Debit Card
+ORD0182,2025-02-18,Rohit Verma,Hyderabad,Electronics,Laptop,3,65000,52000,195000,39000,Cash
+ORD0183,2025-03-19,Sneha Patel,Bengaluru,Furniture,Sofa,3,25000,18000,75000,21000,Credit Card
+ORD0184,2025-12-05,Rohit Verma,Mumbai,Furniture,Chair,3,2500,1800,7500,2100,Credit Card
+ORD0185,2025-01-04,Neha Gupta,Hyderabad,Electronics,Keyboard,4,1500,900,6000,2400,Cash
+ORD0186,2025-03-10,Neha Gupta,Mumbai,Fashion,T-Shirt,2,800,300,1600,1000,Debit Card
+ORD0187,2025-03-31,Anjali Mehta,Bengaluru,Fashion,Jeans,4,1800,900,7200,3600,Credit Card
+ORD0188,2025-10-24,Pooja Nair,Chennai,Furniture,Chair,4,2500,1800,10000,2800,Debit Card
+ORD0189,2025-01-01,Rohit Verma,Mumbai,Electronics,Laptop,4,65000,52000,260000,52000,UPI
+ORD0190,2025-06-04,Arjun Singh,Hyderabad,Furniture,Sofa,3,25000,18000,75000,21000,Cash
+ORD0191,2025-12-13,Rohit Verma,Chennai,Electronics,Mouse,5,800,450,4000,1750,UPI
+ORD0192,2025-12-21,Priya Reddy,Delhi,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Cash
+ORD0193,2025-05-06,Sneha Patel,Chennai,Fashion,T-Shirt,2,800,300,1600,1000,Credit Card
+ORD0194,2025-03-20,Rohit Verma,Delhi,Furniture,Chair,2,2500,1800,5000,1400,Credit Card
+ORD0195,2025-11-19,Vamsi Krishna,Delhi,Electronics,Smart Watch,2,12000,8500,24000,7000,Cash
+ORD0196,2025-09-27,Neha Gupta,Mumbai,Furniture,Sofa,1,25000,18000,25000,7000,Debit Card
+ORD0197,2025-04-05,Neha Gupta,Chennai,Grocery,Rice Bag,2,1800,1400,3600,800,Cash
+ORD0198,2025-09-16,Sneha Patel,Hyderabad,Furniture,Chair,1,2500,1800,2500,700,Debit Card
+ORD0199,2025-09-24,Rahul Sharma,Bengaluru,Furniture,Sofa,3,25000,18000,75000,21000,Cash
+ORD0200,2025-08-13,Neha Gupta,Hyderabad,Electronics,Mouse,3,800,450,2400,1050,Cash
+ORD0201,2025-09-21,Pooja Nair,Mumbai,Electronics,Laptop,4,65000,52000,260000,52000,UPI
+ORD0202,2025-10-23,Rahul Sharma,Mumbai,Grocery,Rice Bag,4,1800,1400,7200,1600,Debit Card
+ORD0203,2025-10-23,Anjali Mehta,Chennai,Furniture,Chair,2,2500,1800,5000,1400,Debit Card
+ORD0204,2025-12-22,Sneha Patel,Hyderabad,Furniture,Chair,4,2500,1800,10000,2800,Debit Card
+ORD0205,2025-04-01,Arjun Singh,Bengaluru,Fashion,T-Shirt,1,800,300,800,500,UPI
+ORD0206,2025-10-25,Anjali Mehta,Chennai,Electronics,Smart Watch,4,12000,8500,48000,14000,Debit Card
+ORD0207,2025-07-11,Anjali Mehta,Delhi,Fashion,Jeans,4,1800,900,7200,3600,Cash
+ORD0208,2025-01-04,Amit Kumar,Chennai,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Credit Card
+ORD0209,2025-06-01,Rahul Sharma,Bengaluru,Electronics,Smart Watch,4,12000,8500,48000,14000,Cash
+ORD0210,2025-12-09,Anjali Mehta,Hyderabad,Fashion,T-Shirt,3,800,300,2400,1500,UPI
+ORD0211,2025-07-19,Anjali Mehta,Bengaluru,Electronics,Mobile,5,30000,24000,150000,30000,Debit Card
+ORD0212,2025-06-29,Anjali Mehta,Bengaluru,Home Appliances,Refrigerator,1,40000,31000,40000,9000,Cash
+ORD0213,2025-12-23,Amit Kumar,Bengaluru,Furniture,Chair,5,2500,1800,12500,3500,Cash
+ORD0214,2025-09-20,Priya Reddy,Chennai,Grocery,Rice Bag,4,1800,1400,7200,1600,Cash
+ORD0215,2025-12-28,Anjali Mehta,Chennai,Fashion,Jeans,2,1800,900,3600,1800,UPI
+ORD0216,2025-08-15,Pooja Nair,Chennai,Fashion,Jeans,3,1800,900,5400,2700,Debit Card
+ORD0217,2025-12-07,Pooja Nair,Delhi,Fashion,T-Shirt,4,800,300,3200,2000,Cash
+ORD0218,2025-09-22,Pooja Nair,Bengaluru,Grocery,Rice Bag,1,1800,1400,1800,400,Cash
+ORD0219,2025-01-30,Rahul Sharma,Delhi,Furniture,Chair,2,2500,1800,5000,1400,Debit Card
+ORD0220,2025-03-15,Arjun Singh,Bengaluru,Electronics,Keyboard,5,1500,900,7500,3000,UPI
+ORD0221,2025-09-29,Amit Kumar,Chennai,Furniture,Chair,5,2500,1800,12500,3500,Cash
+ORD0222,2025-01-30,Arjun Singh,Chennai,Home Appliances,Refrigerator,2,40000,31000,80000,18000,Cash
+ORD0223,2025-04-11,Arjun Singh,Delhi,Fashion,Jeans,3,1800,900,5400,2700,Debit Card
+ORD0224,2025-03-16,Rahul Sharma,Hyderabad,Electronics,Mouse,1,800,450,800,350,Debit Card
+ORD0225,2025-08-06,Neha Gupta,Bengaluru,Electronics,Keyboard,1,1500,900,1500,600,UPI
+ORD0226,2025-12-26,Vamsi Krishna,Hyderabad,Home Appliances,Refrigerator,5,40000,31000,200000,45000,Debit Card
+ORD0227,2025-11-02,Vamsi Krishna,Chennai,Furniture,Chair,4,2500,1800,10000,2800,Debit Card
+ORD0228,2025-07-27,Rahul Sharma,Delhi,Furniture,Sofa,3,25000,18000,75000,21000,UPI
+ORD0229,2025-02-19,Amit Kumar,Hyderabad,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0230,2025-04-08,Sneha Patel,Chennai,Electronics,Mouse,5,800,450,4000,1750,Credit Card
+ORD0231,2025-05-06,Priya Reddy,Chennai,Grocery,Rice Bag,1,1800,1400,1800,400,UPI
+ORD0232,2025-02-11,Priya Reddy,Mumbai,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Credit Card
+ORD0233,2025-02-02,Neha Gupta,Chennai,Electronics,Mobile,1,30000,24000,30000,6000,Debit Card
+ORD0234,2025-08-06,Pooja Nair,Hyderabad,Electronics,Smart Watch,2,12000,8500,24000,7000,UPI
+ORD0235,2025-03-19,Amit Kumar,Bengaluru,Home Appliances,Washing Machine,5,35000,27000,175000,40000,Debit Card
+ORD0236,2025-12-08,Priya Reddy,Delhi,Furniture,Sofa,5,25000,18000,125000,35000,UPI
+ORD0237,2025-03-17,Anjali Mehta,Mumbai,Furniture,Chair,5,2500,1800,12500,3500,Cash
+ORD0238,2025-11-21,Priya Reddy,Delhi,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Credit Card
+ORD0239,2025-05-27,Amit Kumar,Bengaluru,Home Appliances,Refrigerator,1,40000,31000,40000,9000,Debit Card
+ORD0240,2025-11-05,Neha Gupta,Chennai,Grocery,Rice Bag,5,1800,1400,9000,2000,Debit Card
+ORD0241,2025-12-14,Anjali Mehta,Delhi,Home Appliances,Refrigerator,1,40000,31000,40000,9000,UPI
+ORD0242,2025-04-14,Anjali Mehta,Hyderabad,Furniture,Chair,5,2500,1800,12500,3500,Cash
+ORD0243,2025-07-08,Anjali Mehta,Hyderabad,Electronics,Laptop,2,65000,52000,130000,26000,UPI
+ORD0244,2025-04-25,Pooja Nair,Hyderabad,Electronics,Mobile,5,30000,24000,150000,30000,Debit Card
+ORD0245,2025-12-21,Anjali Mehta,Bengaluru,Fashion,Jeans,5,1800,900,9000,4500,Debit Card
+ORD0246,2025-07-12,Anjali Mehta,Mumbai,Furniture,Sofa,2,25000,18000,50000,14000,Debit Card
+ORD0247,2025-08-03,Rahul Sharma,Hyderabad,Grocery,Rice Bag,3,1800,1400,5400,1200,Debit Card
+ORD0248,2025-02-01,Priya Reddy,Hyderabad,Electronics,Mobile,2,30000,24000,60000,12000,Debit Card
+ORD0249,2025-03-31,Vamsi Krishna,Mumbai,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Debit Card
+ORD0250,2025-04-30,Neha Gupta,Chennai,Fashion,Jeans,4,1800,900,7200,3600,Debit Card
+ORD0251,2025-03-29,Amit Kumar,Chennai,Electronics,Mobile,2,30000,24000,60000,12000,Cash
+ORD0252,2025-04-02,Vamsi Krishna,Hyderabad,Grocery,Rice Bag,5,1800,1400,9000,2000,Cash
+ORD0253,2025-12-04,Rohit Verma,Bengaluru,Home Appliances,Refrigerator,1,40000,31000,40000,9000,Cash
+ORD0254,2025-01-17,Rahul Sharma,Bengaluru,Grocery,Rice Bag,1,1800,1400,1800,400,Credit Card
+ORD0255,2025-08-07,Anjali Mehta,Hyderabad,Furniture,Chair,1,2500,1800,2500,700,Cash
+ORD0256,2025-12-19,Anjali Mehta,Chennai,Electronics,Mobile,4,30000,24000,120000,24000,Cash
+ORD0257,2025-02-12,Rohit Verma,Bengaluru,Electronics,Keyboard,3,1500,900,4500,1800,UPI
+ORD0258,2025-04-24,Neha Gupta,Delhi,Fashion,Jeans,3,1800,900,5400,2700,Debit Card
+ORD0259,2025-11-13,Rohit Verma,Chennai,Grocery,Rice Bag,1,1800,1400,1800,400,Credit Card
+ORD0260,2025-04-07,Rohit Verma,Delhi,Furniture,Chair,2,2500,1800,5000,1400,Credit Card
+ORD0261,2025-12-18,Vamsi Krishna,Hyderabad,Home Appliances,Refrigerator,2,40000,31000,80000,18000,Debit Card
+ORD0262,2025-10-27,Arjun Singh,Mumbai,Electronics,Mobile,2,30000,24000,60000,12000,UPI
+ORD0263,2025-08-04,Rohit Verma,Chennai,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0264,2025-12-11,Rohit Verma,Bengaluru,Grocery,Rice Bag,4,1800,1400,7200,1600,Debit Card
+ORD0265,2025-06-10,Vamsi Krishna,Mumbai,Furniture,Sofa,2,25000,18000,50000,14000,Debit Card
+ORD0266,2025-09-26,Arjun Singh,Hyderabad,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Debit Card
+ORD0267,2025-06-16,Priya Reddy,Hyderabad,Home Appliances,Washing Machine,5,35000,27000,175000,40000,Debit Card
+ORD0268,2025-06-24,Sneha Patel,Mumbai,Furniture,Chair,1,2500,1800,2500,700,Debit Card
+ORD0269,2025-01-31,Neha Gupta,Bengaluru,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Credit Card
+ORD0270,2025-07-01,Rohit Verma,Mumbai,Home Appliances,Refrigerator,2,40000,31000,80000,18000,UPI
+ORD0271,2025-09-20,Anjali Mehta,Mumbai,Fashion,T-Shirt,4,800,300,3200,2000,Debit Card
+ORD0272,2025-02-01,Vamsi Krishna,Chennai,Electronics,Smart Watch,3,12000,8500,36000,10500,Credit Card
+ORD0273,2025-07-16,Vamsi Krishna,Chennai,Fashion,T-Shirt,1,800,300,800,500,Cash
+ORD0274,2025-10-20,Rahul Sharma,Mumbai,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Cash
+ORD0275,2025-07-20,Sneha Patel,Chennai,Fashion,Jeans,1,1800,900,1800,900,UPI
+ORD0276,2025-01-16,Neha Gupta,Delhi,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0277,2025-04-11,Amit Kumar,Chennai,Fashion,Jeans,5,1800,900,9000,4500,UPI
+ORD0278,2025-01-08,Anjali Mehta,Mumbai,Furniture,Chair,5,2500,1800,12500,3500,Credit Card
+ORD0279,2025-12-09,Anjali Mehta,Chennai,Electronics,Laptop,1,65000,52000,65000,13000,Debit Card
+ORD0280,2025-03-14,Sneha Patel,Hyderabad,Furniture,Chair,3,2500,1800,7500,2100,Cash
+ORD0281,2025-07-08,Vamsi Krishna,Delhi,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Debit Card
+ORD0282,2025-03-27,Rohit Verma,Mumbai,Electronics,Mouse,4,800,450,3200,1400,Debit Card
+ORD0283,2025-08-06,Rohit Verma,Mumbai,Grocery,Rice Bag,3,1800,1400,5400,1200,Credit Card
+ORD0284,2025-11-05,Anjali Mehta,Hyderabad,Electronics,Keyboard,4,1500,900,6000,2400,UPI
+ORD0285,2025-09-03,Rahul Sharma,Bengaluru,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Credit Card
+ORD0286,2025-12-24,Anjali Mehta,Delhi,Furniture,Sofa,1,25000,18000,25000,7000,UPI
+ORD0287,2025-09-26,Amit Kumar,Bengaluru,Furniture,Chair,4,2500,1800,10000,2800,UPI
+ORD0288,2025-12-12,Neha Gupta,Bengaluru,Electronics,Smart Watch,2,12000,8500,24000,7000,Credit Card
+ORD0289,2025-11-19,Sneha Patel,Mumbai,Fashion,Jeans,3,1800,900,5400,2700,UPI
+ORD0290,2025-03-14,Arjun Singh,Chennai,Fashion,Jeans,2,1800,900,3600,1800,UPI
+ORD0291,2025-06-13,Amit Kumar,Delhi,Home Appliances,Washing Machine,5,35000,27000,175000,40000,Credit Card
+ORD0292,2025-08-26,Pooja Nair,Bengaluru,Grocery,Rice Bag,5,1800,1400,9000,2000,Cash
+ORD0293,2025-11-23,Priya Reddy,Bengaluru,Electronics,Mobile,5,30000,24000,150000,30000,Credit Card
+ORD0294,2025-02-06,Amit Kumar,Delhi,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Credit Card
+ORD0295,2025-09-15,Vamsi Krishna,Mumbai,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Cash
+ORD0296,2025-10-03,Amit Kumar,Delhi,Fashion,T-Shirt,3,800,300,2400,1500,Debit Card
+ORD0297,2025-10-16,Pooja Nair,Mumbai,Fashion,T-Shirt,1,800,300,800,500,Credit Card
+ORD0298,2025-12-05,Neha Gupta,Delhi,Furniture,Sofa,5,25000,18000,125000,35000,UPI
+ORD0299,2025-10-05,Amit Kumar,Chennai,Home Appliances,Refrigerator,1,40000,31000,40000,9000,UPI
+ORD0300,2025-06-30,Vamsi Krishna,Mumbai,Electronics,Keyboard,2,1500,900,3000,1200,Credit Card
+ORD0301,2025-01-23,Arjun Singh,Mumbai,Furniture,Chair,1,2500,1800,2500,700,UPI
+ORD0302,2025-11-28,Priya Reddy,Delhi,Furniture,Chair,1,2500,1800,2500,700,UPI
+ORD0303,2025-03-15,Sneha Patel,Mumbai,Grocery,Rice Bag,4,1800,1400,7200,1600,Debit Card
+ORD0304,2025-12-05,Priya Reddy,Bengaluru,Furniture,Chair,1,2500,1800,2500,700,Cash
+ORD0305,2025-10-17,Pooja Nair,Mumbai,Fashion,T-Shirt,2,800,300,1600,1000,Cash
+ORD0306,2025-03-07,Rahul Sharma,Chennai,Furniture,Sofa,3,25000,18000,75000,21000,Debit Card
+ORD0307,2025-10-28,Rahul Sharma,Bengaluru,Electronics,Laptop,2,65000,52000,130000,26000,Debit Card
+ORD0308,2025-08-22,Priya Reddy,Delhi,Electronics,Laptop,2,65000,52000,130000,26000,UPI
+ORD0309,2025-04-15,Priya Reddy,Bengaluru,Home Appliances,Refrigerator,5,40000,31000,200000,45000,Cash
+ORD0310,2025-02-01,Neha Gupta,Mumbai,Electronics,Mobile,5,30000,24000,150000,30000,Debit Card
+ORD0311,2025-06-24,Rahul Sharma,Bengaluru,Grocery,Rice Bag,3,1800,1400,5400,1200,Cash
+ORD0312,2025-10-10,Neha Gupta,Delhi,Grocery,Rice Bag,5,1800,1400,9000,2000,Credit Card
+ORD0313,2025-01-04,Amit Kumar,Mumbai,Furniture,Chair,3,2500,1800,7500,2100,UPI
+ORD0314,2025-03-07,Arjun Singh,Chennai,Grocery,Rice Bag,3,1800,1400,5400,1200,Cash
+ORD0315,2025-04-28,Rahul Sharma,Chennai,Electronics,Keyboard,3,1500,900,4500,1800,Credit Card
+ORD0316,2025-03-23,Amit Kumar,Bengaluru,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0317,2025-04-10,Arjun Singh,Delhi,Electronics,Keyboard,5,1500,900,7500,3000,UPI
+ORD0318,2025-09-16,Neha Gupta,Chennai,Furniture,Sofa,5,25000,18000,125000,35000,Cash
+ORD0319,2025-01-10,Rohit Verma,Mumbai,Furniture,Sofa,3,25000,18000,75000,21000,UPI
+ORD0320,2025-03-28,Amit Kumar,Mumbai,Fashion,Jeans,5,1800,900,9000,4500,Debit Card
+ORD0321,2025-07-11,Priya Reddy,Delhi,Fashion,T-Shirt,4,800,300,3200,2000,Debit Card
+ORD0322,2025-09-03,Sneha Patel,Mumbai,Furniture,Sofa,1,25000,18000,25000,7000,Credit Card
+ORD0323,2025-03-08,Rohit Verma,Chennai,Electronics,Mobile,2,30000,24000,60000,12000,Credit Card
+ORD0324,2025-05-11,Rohit Verma,Chennai,Fashion,Jeans,3,1800,900,5400,2700,UPI
+ORD0325,2025-09-02,Rahul Sharma,Mumbai,Electronics,Smart Watch,5,12000,8500,60000,17500,Cash
+ORD0326,2025-08-24,Amit Kumar,Delhi,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Cash
+ORD0327,2025-05-14,Rahul Sharma,Delhi,Furniture,Sofa,5,25000,18000,125000,35000,Debit Card
+ORD0328,2025-02-20,Neha Gupta,Mumbai,Home Appliances,Refrigerator,5,40000,31000,200000,45000,Credit Card
+ORD0329,2025-07-14,Sneha Patel,Bengaluru,Electronics,Laptop,2,65000,52000,130000,26000,Debit Card
+ORD0330,2025-10-09,Amit Kumar,Mumbai,Grocery,Rice Bag,1,1800,1400,1800,400,UPI
+ORD0331,2025-04-11,Rahul Sharma,Delhi,Fashion,Jeans,3,1800,900,5400,2700,Cash
+ORD0332,2025-05-18,Sneha Patel,Bengaluru,Electronics,Keyboard,5,1500,900,7500,3000,Credit Card
+ORD0333,2025-08-05,Anjali Mehta,Mumbai,Fashion,Jeans,1,1800,900,1800,900,Credit Card
+ORD0334,2025-04-21,Sneha Patel,Chennai,Furniture,Chair,2,2500,1800,5000,1400,Cash
+ORD0335,2025-06-15,Vamsi Krishna,Hyderabad,Home Appliances,Refrigerator,3,40000,31000,120000,27000,UPI
+ORD0336,2025-07-26,Rahul Sharma,Bengaluru,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Cash
+ORD0337,2025-09-21,Rahul Sharma,Bengaluru,Grocery,Rice Bag,2,1800,1400,3600,800,Cash
+ORD0338,2025-04-22,Arjun Singh,Delhi,Electronics,Smart Watch,4,12000,8500,48000,14000,Credit Card
+ORD0339,2025-10-26,Rahul Sharma,Hyderabad,Fashion,T-Shirt,5,800,300,4000,2500,Debit Card
+ORD0340,2025-05-14,Priya Reddy,Hyderabad,Fashion,Jeans,1,1800,900,1800,900,UPI
+ORD0341,2025-07-24,Priya Reddy,Chennai,Furniture,Sofa,1,25000,18000,25000,7000,Debit Card
+ORD0342,2025-10-05,Sneha Patel,Mumbai,Furniture,Chair,5,2500,1800,12500,3500,Cash
+ORD0343,2025-12-04,Anjali Mehta,Mumbai,Furniture,Chair,1,2500,1800,2500,700,Credit Card
+ORD0344,2025-03-02,Neha Gupta,Hyderabad,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Cash
+ORD0345,2025-02-28,Vamsi Krishna,Mumbai,Electronics,Mobile,1,30000,24000,30000,6000,Cash
+ORD0346,2025-06-30,Pooja Nair,Mumbai,Grocery,Rice Bag,3,1800,1400,5400,1200,UPI
+ORD0347,2025-05-29,Priya Reddy,Chennai,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Credit Card
+ORD0348,2025-08-20,Anjali Mehta,Delhi,Electronics,Smart Watch,1,12000,8500,12000,3500,Credit Card
+ORD0349,2025-05-02,Arjun Singh,Delhi,Fashion,Jeans,2,1800,900,3600,1800,Cash
+ORD0350,2025-11-12,Priya Reddy,Mumbai,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Debit Card
+ORD0351,2025-12-25,Pooja Nair,Mumbai,Fashion,T-Shirt,5,800,300,4000,2500,Credit Card
+ORD0352,2025-09-20,Arjun Singh,Mumbai,Furniture,Chair,1,2500,1800,2500,700,UPI
+ORD0353,2025-04-07,Sneha Patel,Delhi,Fashion,T-Shirt,5,800,300,4000,2500,Debit Card
+ORD0354,2025-01-03,Rahul Sharma,Hyderabad,Furniture,Chair,3,2500,1800,7500,2100,Debit Card
+ORD0355,2025-02-13,Vamsi Krishna,Delhi,Fashion,Jeans,4,1800,900,7200,3600,Credit Card
+ORD0356,2025-10-18,Neha Gupta,Bengaluru,Electronics,Keyboard,5,1500,900,7500,3000,Cash
+ORD0357,2025-11-23,Rahul Sharma,Mumbai,Fashion,T-Shirt,4,800,300,3200,2000,Debit Card
+ORD0358,2025-03-13,Priya Reddy,Delhi,Electronics,Smart Watch,4,12000,8500,48000,14000,Cash
+ORD0359,2025-02-12,Sneha Patel,Mumbai,Electronics,Laptop,5,65000,52000,325000,65000,Credit Card
+ORD0360,2025-03-15,Priya Reddy,Bengaluru,Grocery,Rice Bag,1,1800,1400,1800,400,Cash
+ORD0361,2025-02-07,Sneha Patel,Bengaluru,Grocery,Rice Bag,2,1800,1400,3600,800,Credit Card
+ORD0362,2025-11-18,Neha Gupta,Hyderabad,Home Appliances,Refrigerator,1,40000,31000,40000,9000,UPI
+ORD0363,2025-12-05,Arjun Singh,Hyderabad,Grocery,Rice Bag,2,1800,1400,3600,800,Debit Card
+ORD0364,2025-05-17,Vamsi Krishna,Chennai,Electronics,Mobile,4,30000,24000,120000,24000,Cash
+ORD0365,2025-09-05,Pooja Nair,Hyderabad,Furniture,Chair,2,2500,1800,5000,1400,Debit Card
+ORD0366,2025-12-24,Sneha Patel,Chennai,Furniture,Sofa,4,25000,18000,100000,28000,Cash
+ORD0367,2025-04-19,Rohit Verma,Delhi,Fashion,T-Shirt,2,800,300,1600,1000,Cash
+ORD0368,2025-07-19,Rahul Sharma,Delhi,Grocery,Rice Bag,1,1800,1400,1800,400,Credit Card
+ORD0369,2025-03-10,Vamsi Krishna,Bengaluru,Fashion,T-Shirt,2,800,300,1600,1000,Credit Card
+ORD0370,2025-12-19,Pooja Nair,Chennai,Fashion,Jeans,1,1800,900,1800,900,UPI
+ORD0371,2025-10-22,Priya Reddy,Chennai,Electronics,Smart Watch,4,12000,8500,48000,14000,Debit Card
+ORD0372,2025-09-24,Rohit Verma,Hyderabad,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0373,2025-03-28,Amit Kumar,Chennai,Fashion,T-Shirt,4,800,300,3200,2000,Credit Card
+ORD0374,2025-05-31,Rahul Sharma,Bengaluru,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Cash
+ORD0375,2025-12-11,Anjali Mehta,Chennai,Grocery,Rice Bag,4,1800,1400,7200,1600,Credit Card
+ORD0376,2025-01-03,Pooja Nair,Chennai,Furniture,Chair,3,2500,1800,7500,2100,Cash
+ORD0377,2025-11-29,Priya Reddy,Delhi,Fashion,Jeans,5,1800,900,9000,4500,Credit Card
+ORD0378,2025-10-26,Sneha Patel,Delhi,Fashion,Jeans,4,1800,900,7200,3600,Cash
+ORD0379,2025-07-13,Sneha Patel,Chennai,Fashion,Jeans,5,1800,900,9000,4500,Debit Card
+ORD0380,2025-06-16,Neha Gupta,Bengaluru,Grocery,Rice Bag,2,1800,1400,3600,800,Cash
+ORD0381,2025-02-16,Anjali Mehta,Delhi,Home Appliances,Washing Machine,5,35000,27000,175000,40000,Credit Card
+ORD0382,2025-06-11,Neha Gupta,Chennai,Electronics,Mobile,5,30000,24000,150000,30000,Credit Card
+ORD0383,2025-05-11,Pooja Nair,Hyderabad,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Debit Card
+ORD0384,2025-04-12,Pooja Nair,Mumbai,Grocery,Rice Bag,3,1800,1400,5400,1200,Debit Card
+ORD0385,2025-07-28,Anjali Mehta,Hyderabad,Furniture,Sofa,1,25000,18000,25000,7000,UPI
+ORD0386,2025-09-21,Vamsi Krishna,Chennai,Home Appliances,Refrigerator,2,40000,31000,80000,18000,Cash
+ORD0387,2025-12-10,Neha Gupta,Bengaluru,Electronics,Mobile,4,30000,24000,120000,24000,Debit Card
+ORD0388,2025-11-10,Arjun Singh,Mumbai,Fashion,T-Shirt,2,800,300,1600,1000,Credit Card
+ORD0389,2025-11-26,Priya Reddy,Hyderabad,Fashion,Jeans,4,1800,900,7200,3600,Credit Card
+ORD0390,2025-03-20,Pooja Nair,Hyderabad,Furniture,Chair,1,2500,1800,2500,700,Credit Card
+ORD0391,2025-06-05,Anjali Mehta,Bengaluru,Electronics,Mobile,4,30000,24000,120000,24000,Debit Card
+ORD0392,2025-09-11,Priya Reddy,Mumbai,Furniture,Chair,5,2500,1800,12500,3500,Cash
+ORD0393,2025-03-03,Rohit Verma,Hyderabad,Furniture,Chair,1,2500,1800,2500,700,UPI
+ORD0394,2025-11-12,Vamsi Krishna,Delhi,Electronics,Laptop,2,65000,52000,130000,26000,UPI
+ORD0395,2025-10-17,Rohit Verma,Hyderabad,Electronics,Laptop,3,65000,52000,195000,39000,Debit Card
+ORD0396,2025-08-05,Amit Kumar,Chennai,Fashion,T-Shirt,2,800,300,1600,1000,Debit Card
+ORD0397,2025-06-10,Rohit Verma,Bengaluru,Home Appliances,Washing Machine,4,35000,27000,140000,32000,UPI
+ORD0398,2025-05-26,Rohit Verma,Hyderabad,Home Appliances,Washing Machine,3,35000,27000,105000,24000,UPI
+ORD0399,2025-08-23,Pooja Nair,Chennai,Grocery,Rice Bag,4,1800,1400,7200,1600,Debit Card
+ORD0400,2025-05-04,Rahul Sharma,Chennai,Electronics,Smart Watch,1,12000,8500,12000,3500,UPI
+ORD0401,2025-04-10,Amit Kumar,Mumbai,Grocery,Rice Bag,4,1800,1400,7200,1600,UPI
+ORD0402,2025-01-06,Rohit Verma,Mumbai,Grocery,Rice Bag,3,1800,1400,5400,1200,Debit Card
+ORD0403,2025-11-27,Rohit Verma,Hyderabad,Grocery,Rice Bag,2,1800,1400,3600,800,Cash
+ORD0404,2025-03-14,Arjun Singh,Delhi,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0405,2025-06-11,Priya Reddy,Chennai,Fashion,Jeans,2,1800,900,3600,1800,UPI
+ORD0406,2025-08-15,Anjali Mehta,Mumbai,Electronics,Mobile,3,30000,24000,90000,18000,Debit Card
+ORD0407,2025-10-03,Rahul Sharma,Delhi,Electronics,Smart Watch,2,12000,8500,24000,7000,Credit Card
+ORD0408,2025-08-07,Anjali Mehta,Chennai,Fashion,T-Shirt,5,800,300,4000,2500,Debit Card
+ORD0409,2025-06-03,Pooja Nair,Bengaluru,Grocery,Rice Bag,4,1800,1400,7200,1600,Debit Card
+ORD0410,2025-12-10,Anjali Mehta,Mumbai,Fashion,Jeans,1,1800,900,1800,900,Credit Card
+ORD0411,2025-02-16,Arjun Singh,Bengaluru,Electronics,Mobile,1,30000,24000,30000,6000,Cash
+ORD0412,2025-12-26,Rahul Sharma,Hyderabad,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Credit Card
+ORD0413,2025-12-30,Priya Reddy,Mumbai,Electronics,Laptop,3,65000,52000,195000,39000,Debit Card
+ORD0414,2025-12-27,Rohit Verma,Delhi,Electronics,Mobile,5,30000,24000,150000,30000,Credit Card
+ORD0415,2025-10-07,Rohit Verma,Delhi,Electronics,Mouse,3,800,450,2400,1050,Cash
+ORD0416,2025-12-13,Pooja Nair,Chennai,Furniture,Chair,1,2500,1800,2500,700,Credit Card
+ORD0417,2025-03-28,Arjun Singh,Mumbai,Furniture,Sofa,1,25000,18000,25000,7000,UPI
+ORD0418,2025-05-21,Amit Kumar,Chennai,Home Appliances,Refrigerator,2,40000,31000,80000,18000,Cash
+ORD0419,2025-07-24,Arjun Singh,Bengaluru,Grocery,Rice Bag,3,1800,1400,5400,1200,Credit Card
+ORD0420,2025-02-04,Vamsi Krishna,Chennai,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Credit Card
+ORD0421,2025-02-08,Arjun Singh,Delhi,Electronics,Laptop,4,65000,52000,260000,52000,Debit Card
+ORD0422,2025-01-16,Rohit Verma,Chennai,Fashion,Jeans,1,1800,900,1800,900,Cash
+ORD0423,2025-02-18,Pooja Nair,Hyderabad,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Cash
+ORD0424,2025-11-05,Neha Gupta,Chennai,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Credit Card
+ORD0425,2025-01-17,Pooja Nair,Bengaluru,Fashion,T-Shirt,4,800,300,3200,2000,Credit Card
+ORD0426,2025-01-04,Pooja Nair,Chennai,Electronics,Keyboard,5,1500,900,7500,3000,Credit Card
+ORD0427,2025-04-22,Anjali Mehta,Mumbai,Grocery,Rice Bag,4,1800,1400,7200,1600,Credit Card
+ORD0428,2025-08-01,Pooja Nair,Delhi,Electronics,Laptop,5,65000,52000,325000,65000,Cash
+ORD0429,2025-03-07,Amit Kumar,Bengaluru,Furniture,Chair,5,2500,1800,12500,3500,Credit Card
+ORD0430,2025-08-04,Rahul Sharma,Mumbai,Electronics,Mouse,1,800,450,800,350,Debit Card
+ORD0431,2025-01-23,Pooja Nair,Chennai,Electronics,Laptop,3,65000,52000,195000,39000,Cash
+ORD0432,2025-08-07,Amit Kumar,Bengaluru,Home Appliances,Refrigerator,3,40000,31000,120000,27000,UPI
+ORD0433,2025-11-26,Rahul Sharma,Hyderabad,Fashion,T-Shirt,5,800,300,4000,2500,Debit Card
+ORD0434,2025-06-09,Arjun Singh,Bengaluru,Fashion,Jeans,1,1800,900,1800,900,UPI
+ORD0435,2025-09-11,Sneha Patel,Bengaluru,Electronics,Smart Watch,2,12000,8500,24000,7000,Debit Card
+ORD0436,2025-02-13,Amit Kumar,Mumbai,Home Appliances,Refrigerator,5,40000,31000,200000,45000,Credit Card
+ORD0437,2025-10-13,Amit Kumar,Delhi,Furniture,Sofa,4,25000,18000,100000,28000,Credit Card
+ORD0438,2025-01-24,Sneha Patel,Delhi,Fashion,Jeans,2,1800,900,3600,1800,Debit Card
+ORD0439,2025-05-07,Neha Gupta,Chennai,Fashion,Jeans,4,1800,900,7200,3600,Credit Card
+ORD0440,2025-10-17,Rahul Sharma,Delhi,Grocery,Rice Bag,4,1800,1400,7200,1600,Cash
+ORD0441,2025-10-27,Neha Gupta,Hyderabad,Home Appliances,Refrigerator,1,40000,31000,40000,9000,UPI
+ORD0442,2025-04-22,Amit Kumar,Hyderabad,Grocery,Rice Bag,2,1800,1400,3600,800,Debit Card
+ORD0443,2025-04-23,Vamsi Krishna,Bengaluru,Electronics,Mouse,3,800,450,2400,1050,Debit Card
+ORD0444,2025-08-02,Arjun Singh,Hyderabad,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Debit Card
+ORD0445,2025-03-02,Rohit Verma,Bengaluru,Grocery,Rice Bag,4,1800,1400,7200,1600,Cash
+ORD0446,2025-09-28,Vamsi Krishna,Chennai,Furniture,Chair,2,2500,1800,5000,1400,UPI
+ORD0447,2025-01-12,Pooja Nair,Delhi,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Credit Card
+ORD0448,2025-09-27,Rahul Sharma,Chennai,Grocery,Rice Bag,4,1800,1400,7200,1600,UPI
+ORD0449,2025-09-03,Pooja Nair,Hyderabad,Furniture,Sofa,2,25000,18000,50000,14000,Cash
+ORD0450,2025-12-24,Rohit Verma,Bengaluru,Electronics,Mouse,4,800,450,3200,1400,Credit Card
+ORD0451,2025-08-23,Pooja Nair,Chennai,Home Appliances,Refrigerator,2,40000,31000,80000,18000,UPI
+ORD0452,2025-03-13,Pooja Nair,Delhi,Grocery,Rice Bag,4,1800,1400,7200,1600,Credit Card
+ORD0453,2025-07-12,Rohit Verma,Chennai,Fashion,Jeans,5,1800,900,9000,4500,Debit Card
+ORD0454,2025-12-23,Priya Reddy,Hyderabad,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Cash
+ORD0455,2025-06-19,Sneha Patel,Mumbai,Grocery,Rice Bag,2,1800,1400,3600,800,Credit Card
+ORD0456,2025-03-30,Anjali Mehta,Bengaluru,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Credit Card
+ORD0457,2025-03-05,Neha Gupta,Bengaluru,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Credit Card
+ORD0458,2025-08-23,Arjun Singh,Hyderabad,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Credit Card
+ORD0459,2025-05-04,Neha Gupta,Bengaluru,Fashion,T-Shirt,2,800,300,1600,1000,UPI
+ORD0460,2025-05-23,Priya Reddy,Bengaluru,Home Appliances,Refrigerator,3,40000,31000,120000,27000,Credit Card
+ORD0461,2025-05-08,Vamsi Krishna,Hyderabad,Electronics,Keyboard,4,1500,900,6000,2400,Debit Card
+ORD0462,2025-03-23,Sneha Patel,Delhi,Fashion,T-Shirt,1,800,300,800,500,Debit Card
+ORD0463,2025-01-23,Pooja Nair,Chennai,Home Appliances,Washing Machine,2,35000,27000,70000,16000,Debit Card
+ORD0464,2025-07-26,Priya Reddy,Hyderabad,Furniture,Sofa,4,25000,18000,100000,28000,UPI
+ORD0465,2025-04-07,Arjun Singh,Hyderabad,Home Appliances,Refrigerator,2,40000,31000,80000,18000,UPI
+ORD0466,2025-02-04,Arjun Singh,Hyderabad,Home Appliances,Washing Machine,4,35000,27000,140000,32000,Credit Card
+ORD0467,2025-10-26,Rohit Verma,Delhi,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Credit Card
+ORD0468,2025-07-13,Neha Gupta,Chennai,Electronics,Mouse,3,800,450,2400,1050,Debit Card
+ORD0469,2025-04-11,Priya Reddy,Bengaluru,Electronics,Keyboard,2,1500,900,3000,1200,UPI
+ORD0470,2025-02-08,Priya Reddy,Hyderabad,Fashion,Jeans,4,1800,900,7200,3600,Debit Card
+ORD0471,2025-01-21,Neha Gupta,Delhi,Home Appliances,Refrigerator,5,40000,31000,200000,45000,Credit Card
+ORD0472,2025-05-14,Priya Reddy,Hyderabad,Home Appliances,Refrigerator,2,40000,31000,80000,18000,UPI
+ORD0473,2025-12-21,Priya Reddy,Bengaluru,Grocery,Rice Bag,3,1800,1400,5400,1200,Credit Card
+ORD0474,2025-06-22,Pooja Nair,Bengaluru,Electronics,Mobile,5,30000,24000,150000,30000,Debit Card
+ORD0475,2025-02-13,Sneha Patel,Mumbai,Grocery,Rice Bag,2,1800,1400,3600,800,Debit Card
+ORD0476,2025-02-24,Pooja Nair,Chennai,Electronics,Smart Watch,2,12000,8500,24000,7000,Cash
+ORD0477,2025-09-30,Vamsi Krishna,Hyderabad,Furniture,Sofa,3,25000,18000,75000,21000,Cash
+ORD0478,2025-05-05,Priya Reddy,Chennai,Fashion,T-Shirt,5,800,300,4000,2500,Debit Card
+ORD0479,2025-03-31,Sneha Patel,Delhi,Electronics,Smart Watch,4,12000,8500,48000,14000,Cash
+ORD0480,2025-01-17,Vamsi Krishna,Mumbai,Electronics,Laptop,3,65000,52000,195000,39000,Debit Card
+ORD0481,2025-12-11,Rahul Sharma,Mumbai,Electronics,Keyboard,2,1500,900,3000,1200,Debit Card
+ORD0482,2025-02-05,Pooja Nair,Chennai,Home Appliances,Washing Machine,1,35000,27000,35000,8000,Cash
+ORD0483,2025-01-07,Rohit Verma,Delhi,Furniture,Chair,2,2500,1800,5000,1400,UPI
+ORD0484,2025-03-02,Rahul Sharma,Chennai,Home Appliances,Washing Machine,3,35000,27000,105000,24000,UPI
+ORD0485,2025-10-02,Pooja Nair,Chennai,Fashion,T-Shirt,2,800,300,1600,1000,Credit Card
+ORD0486,2025-04-12,Sneha Patel,Hyderabad,Grocery,Rice Bag,3,1800,1400,5400,1200,Debit Card
+ORD0487,2025-04-07,Amit Kumar,Hyderabad,Fashion,T-Shirt,2,800,300,1600,1000,UPI
+ORD0488,2025-05-03,Pooja Nair,Hyderabad,Furniture,Sofa,1,25000,18000,25000,7000,Debit Card
+ORD0489,2025-01-29,Pooja Nair,Hyderabad,Electronics,Keyboard,1,1500,900,1500,600,Debit Card
+ORD0490,2025-03-06,Rohit Verma,Chennai,Home Appliances,Refrigerator,4,40000,31000,160000,36000,UPI
+ORD0491,2025-01-27,Sneha Patel,Hyderabad,Grocery,Rice Bag,5,1800,1400,9000,2000,Cash
+ORD0492,2025-06-06,Pooja Nair,Hyderabad,Fashion,T-Shirt,3,800,300,2400,1500,Credit Card
+ORD0493,2025-10-12,Neha Gupta,Delhi,Electronics,Smart Watch,1,12000,8500,12000,3500,Debit Card
+ORD0494,2025-06-28,Arjun Singh,Delhi,Fashion,T-Shirt,2,800,300,1600,1000,Debit Card
+ORD0495,2025-10-31,Anjali Mehta,Bengaluru,Fashion,T-Shirt,2,800,300,1600,1000,Cash
+ORD0496,2025-11-16,Arjun Singh,Hyderabad,Home Appliances,Washing Machine,3,35000,27000,105000,24000,Cash
+ORD0497,2025-12-31,Amit Kumar,Mumbai,Electronics,Keyboard,2,1500,900,3000,1200,Cash
+ORD0498,2025-08-02,Rohit Verma,Chennai,Grocery,Rice Bag,5,1800,1400,9000,2000,Debit Card
+ORD0499,2025-08-09,Arjun Singh,Bengaluru,Grocery,Rice Bag,2,1800,1400,3600,800,Credit Card
+ORD0500,2025-09-17,Arjun Singh,Bengaluru,Fashion,T-Shirt,2,800,300,1600,1000,Cash

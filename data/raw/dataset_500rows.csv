@@ -1,0 +1,501 @@
+Order_Date,Customer_Name,Product,Category,City,Quantity,Revenue,Profit,Payment_Method
+2025-10-16,Vihaan Nair,Bluetooth Speaker,Electronics,Chennai,4,42576,11535.6,Wallet
+2025-07-12,Aditya Reddy,Desk Organizer,Stationery,Bengaluru,1,211,24.39,Cash on Delivery
+2025-09-08,Aarav Sharma,Pen Set,Stationery,Kochi,9,7911,918.72,Cash on Delivery
+2024-10-11,Sneha Rao,Cricket Bat,Sports,Surat,3,17757,3139.16,UPI
+2024-06-08,Reyansh Rao,Yoga Mat,Sports,Mumbai,2,6624,523.39,UPI
+2025-09-10,Krishna Patel,Cricket Bat,Sports,Kochi,8,36736,3212.48,Net Banking
+2024-03-21,Kavya Bose,Formal Shirt,Clothing,Chandigarh,10,39260,12112.18,Cash on Delivery
+2024-07-15,Neha Kulkarni,Smartphone,Electronics,Chandigarh,4,208652,28547.01,Credit Card
+2024-08-26,Tanya Shetty,Power Bank,Electronics,Hyderabad,8,345280,103664.49,Debit Card
+2025-01-14,Diya Verma,Coffee Table,Furniture,Hyderabad,2,83840,20162.97,Cash on Delivery
+2024-09-07,Sai Kumar,Spices Pack,Groceries,Hyderabad,9,4491,1146.93,Credit Card
+2024-08-22,Vikram Desai,Tablet,Electronics,Kolkata,5,29185,3306.51,Cash on Delivery
+2024-11-18,Reyansh Rao,Vacuum Cleaner,Home Appliances,Kolkata,8,45448,5883.88,Debit Card
+2025-07-28,Kavya Bose,Sneakers,Clothing,Lucknow,7,27839,6265.44,UPI
+2024-08-12,Arjun Iyer,Desk Organizer,Stationery,Mumbai,1,244,23.39,Debit Card
+2025-11-27,Saanvi Joshi,Notebook,Stationery,Kolkata,7,8680,3027.9,Cash on Delivery
+2024-09-14,Kavya Bose,Cricket Bat,Sports,Chandigarh,2,11568,3648.97,UPI
+2025-10-18,Ananya Menon,Bluetooth Speaker,Electronics,Kolkata,3,93705,4776.48,Wallet
+2024-09-26,Riya Chatterjee,Football,Sports,Jaipur,2,14662,3483.55,Wallet
+2025-06-03,Isha Kapoor,Dining Table,Furniture,Pune,3,112044,37652.38,Cash on Delivery
+2024-01-01,Isha Kapoor,Kurta,Clothing,Bengaluru,2,3572,1120.24,UPI
+2024-09-02,Vivaan Gupta,Bed Frame,Furniture,Mumbai,2,67698,19957.84,Cash on Delivery
+2024-05-08,Arjun Iyer,Vacuum Cleaner,Home Appliances,Jaipur,3,29055,6052.22,Cash on Delivery
+2025-03-09,Reyansh Rao,Marker Set,Stationery,Kochi,4,5920,849.61,Wallet
+2025-10-27,Diya Verma,Tea,Groceries,Ahmedabad,2,1114,130.79,UPI
+2024-01-22,Anika Malhotra,Pen Set,Stationery,Lucknow,4,136,9.7,Wallet
+2024-03-01,Ayaan Khan,Smartphone,Electronics,Nagpur,6,36858,7528.13,UPI
+2025-11-16,Meera Nayak,Bed Frame,Furniture,Delhi,10,397620,76264.04,Net Banking
+2025-02-20,Reyansh Rao,Laptop,Electronics,Chandigarh,7,173033,30639.57,Net Banking
+2024-02-25,Karan Chawla,Fan,Home Appliances,Mumbai,1,14193,3810.31,Credit Card
+2024-09-11,Reyansh Rao,Bed Frame,Furniture,Ahmedabad,3,88944,9343.25,Net Banking
+2024-09-12,Tanya Shetty,Camera,Electronics,Surat,9,71244,4643.43,Cash on Delivery
+2024-01-16,Aditya Reddy,Football,Sports,Delhi,7,29246,5685.64,Net Banking
+2024-03-01,Sai Kumar,Rice Bag,Groceries,Kolkata,5,4905,664.99,Wallet
+2025-07-23,Karan Chawla,Vacuum Cleaner,Home Appliances,Delhi,4,42888,4945.43,Credit Card
+2025-08-16,Pooja Agarwal,Notebook,Stationery,Kochi,6,822,53.47,Net Banking
+2025-05-29,Divya Menon,Badminton Racket,Sports,Delhi,1,4360,322.79,Debit Card
+2024-03-11,Isha Kapoor,Smartwatch,Electronics,Kolkata,2,119690,26439.83,Cash on Delivery
+2025-08-31,Vivaan Gupta,Notebook,Stationery,Kolkata,10,11770,2434.45,UPI
+2024-07-28,Karan Chawla,Air Purifier,Home Appliances,Chennai,5,69845,6234.61,Wallet
+2024-11-03,Aadhya Pillai,Formal Shirt,Clothing,Indore,2,676,126.74,Cash on Delivery
+2024-04-12,Aditya Reddy,Pen Set,Stationery,Jaipur,5,1455,480.12,Credit Card
+2024-09-07,Diya Verma,Jeans,Clothing,Ahmedabad,9,28629,4029.68,Wallet
+2025-06-25,Aarav Sharma,Water Heater,Home Appliances,Hyderabad,2,10800,1396.87,Credit Card
+2025-07-20,Arjun Iyer,Jacket,Clothing,Lucknow,4,12956,1980.51,Wallet
+2025-10-11,Tanya Shetty,Saree,Clothing,Ahmedabad,5,18825,1228.14,Wallet
+2025-03-09,Vikram Desai,T-Shirt,Clothing,Bengaluru,6,20748,1851.67,UPI
+2024-06-14,Pooja Agarwal,Tea,Groceries,Kochi,7,8386,443.63,Credit Card
+2025-12-08,Amit Trivedi,Bed Frame,Furniture,Bengaluru,6,241050,52008.35,Net Banking
+2024-05-10,Vivaan Gupta,Jacket,Clothing,Indore,1,3981,626.38,Wallet
+2024-09-12,Karan Chawla,Tablet,Electronics,Surat,9,534978,167134.52,Cash on Delivery
+2024-06-07,Divya Menon,Wardrobe,Furniture,Delhi,3,87060,5000.37,Wallet
+2024-12-06,Sneha Rao,Snacks Combo,Groceries,Chandigarh,4,2384,233.06,Wallet
+2024-04-20,Priya Das,Cricket Bat,Sports,Nagpur,8,16176,1777.29,Net Banking
+2024-12-24,Ishaan Singh,Football,Sports,Chennai,1,5606,605.11,UPI
+2024-10-12,Tanya Shetty,Bluetooth Speaker,Electronics,Pune,9,249237,63270.17,Cash on Delivery
+2024-12-05,Aarav Sharma,Bluetooth Speaker,Electronics,Delhi,10,188970,11617.34,Cash on Delivery
+2025-03-20,Diya Verma,Air Purifier,Home Appliances,Kolkata,10,177580,15039.91,Cash on Delivery
+2024-07-13,Krishna Patel,Power Bank,Electronics,Bengaluru,9,489195,103482.16,Wallet
+2025-11-17,Reyansh Rao,Kurta,Clothing,Mumbai,6,17112,2467.12,Credit Card
+2024-11-03,Riya Chatterjee,Sneakers,Clothing,Kolkata,6,11688,3029.09,Cash on Delivery
+2024-05-10,Reyansh Rao,Coffee,Groceries,Kolkata,3,1998,343.3,Credit Card
+2024-11-07,Ishaan Singh,Bookshelf,Furniture,Surat,10,417580,102896.59,Net Banking
+2025-03-28,Aadhya Pillai,Microwave Oven,Home Appliances,Jaipur,8,52480,12996.95,UPI
+2025-06-11,Karan Chawla,Water Heater,Home Appliances,Pune,2,17392,4379.98,Debit Card
+2024-07-22,Arjun Iyer,Smartphone,Electronics,Chennai,8,332480,101380.24,Credit Card
+2025-04-11,Saanvi Joshi,Water Heater,Home Appliances,Chennai,7,120393,20454.27,Debit Card
+2025-11-02,Neha Kulkarni,Laptop,Electronics,Surat,7,110887,11395.41,Wallet
+2025-06-14,Aadhya Pillai,Smartwatch,Electronics,Indore,2,62828,5654.63,Net Banking
+2025-11-14,Riya Chatterjee,Sketch Kit,Stationery,Pune,8,10192,3001.56,Cash on Delivery
+2025-03-12,Vikram Desai,Desk Organizer,Stationery,Indore,3,2976,550.62,Debit Card
+2025-10-14,Krishna Patel,Badminton Racket,Sports,Ahmedabad,4,9796,1782.5,Wallet
+2024-10-19,Ayaan Khan,Jacket,Clothing,Pune,9,5670,518.87,Debit Card
+2025-01-27,Neha Kulkarni,Coffee Table,Furniture,Chennai,2,58376,10057.01,Cash on Delivery
+2025-04-22,Saanvi Joshi,Smartwatch,Electronics,Nagpur,7,189168,60808.35,Cash on Delivery
+2025-12-13,Aarav Sharma,Badminton Racket,Sports,Kolkata,8,1984,660.32,UPI
+2025-02-03,Tanya Shetty,Dumbbells,Sports,Jaipur,9,60768,14035.94,Debit Card
+2025-05-14,Ayaan Khan,Kurta,Clothing,Ahmedabad,1,1892,285.39,Wallet
+2025-02-18,Pooja Agarwal,Wardrobe,Furniture,Ahmedabad,3,128340,26981.83,Net Banking
+2025-08-29,Anika Malhotra,Mixer Grinder,Home Appliances,Mumbai,7,38122,11819.93,Debit Card
+2024-02-21,Krishna Patel,Wheat Flour,Groceries,Chennai,8,5752,869.99,Net Banking
+2024-10-11,Rahul Bhat,Dumbbells,Sports,Hyderabad,2,8104,452.32,Cash on Delivery
+2024-02-23,Diya Verma,Coffee Table,Furniture,Mumbai,1,4033,1350.59,Debit Card
+2024-01-21,Isha Kapoor,Dining Table,Furniture,Delhi,8,75968,16651.49,Debit Card
+2025-04-21,Neha Kulkarni,Formal Shirt,Clothing,Pune,3,8343,1937.03,Wallet
+2024-04-27,Rahul Bhat,Football,Sports,Hyderabad,2,9880,570.11,UPI
+2025-08-12,Karan Chawla,Spices Pack,Groceries,Kochi,4,820,186.66,Wallet
+2024-09-05,Vihaan Nair,Air Purifier,Home Appliances,Nagpur,10,49660,14345.19,Cash on Delivery
+2024-02-12,Diya Verma,Desk Organizer,Stationery,Chandigarh,6,966,194.93,UPI
+2024-01-13,Tanya Shetty,Snacks Combo,Groceries,Ahmedabad,2,1874,633.85,Wallet
+2025-04-15,Neha Kulkarni,Bookshelf,Furniture,Delhi,9,401652,52626.34,Cash on Delivery
+2025-05-10,Aadhya Pillai,Snacks Combo,Groceries,Kochi,10,5990,878.68,Debit Card
+2024-03-29,Krishna Patel,Cooking Oil,Groceries,Surat,8,6608,997.27,Net Banking
+2024-11-28,Sai Kumar,Cooking Oil,Groceries,Pune,5,3735,500.11,Cash on Delivery
+2025-12-19,Amit Trivedi,Saree,Clothing,Bengaluru,9,9738,737.01,Wallet
+2025-02-20,Meera Nayak,Pen Set,Stationery,Kochi,8,10736,2829.5,Net Banking
+2024-01-18,Aditya Reddy,Jeans,Clothing,Kolkata,4,6216,1548.95,UPI
+2025-04-29,Kavya Bose,Backpack,Stationery,Kolkata,9,6273,975.72,Net Banking
+2024-10-04,Ishaan Singh,Jeans,Clothing,Mumbai,4,6368,546.8,Cash on Delivery
+2025-12-07,Sai Kumar,Dining Table,Furniture,Kochi,8,160960,43036.76,Cash on Delivery
+2025-09-03,Ishaan Singh,Smartwatch,Electronics,Hyderabad,4,100600,10445.55,Credit Card
+2025-12-26,Kavya Bose,Sofa,Furniture,Bengaluru,1,38264,5266.69,Debit Card
+2025-10-15,Tanya Shetty,Dumbbells,Sports,Mumbai,1,4902,663.25,Net Banking
+2025-03-27,Ananya Menon,Office Chair,Furniture,Hyderabad,8,75808,22487.28,Net Banking
+2025-05-18,Aditya Reddy,Marker Set,Stationery,Chandigarh,1,330,31.27,Cash on Delivery
+2024-11-07,Aditya Reddy,Office Chair,Furniture,Jaipur,7,292145,66853.89,Cash on Delivery
+2024-08-19,Rahul Bhat,Desk Organizer,Stationery,Ahmedabad,8,5024,1547.64,Net Banking
+2024-11-08,Anika Malhotra,Notebook,Stationery,Lucknow,2,890,211.51,UPI
+2025-11-07,Aditya Reddy,Dining Table,Furniture,Delhi,9,62271,6037.78,Net Banking
+2025-04-06,Neha Kulkarni,Desk Organizer,Stationery,Hyderabad,1,494,67.4,UPI
+2025-12-20,Tanya Shetty,Rice Bag,Groceries,Chandigarh,4,2364,676.93,Wallet
+2025-08-26,Karan Chawla,Football,Sports,Kolkata,2,9322,1094.8,Debit Card
+2024-09-29,Vikram Desai,Office Chair,Furniture,Bengaluru,3,66477,15190.87,Cash on Delivery
+2024-10-22,Aadhya Pillai,Camera,Electronics,Kochi,5,236785,40431.64,UPI
+2025-05-27,Kavya Bose,Spices Pack,Groceries,Mumbai,10,1310,415.04,Wallet
+2024-11-26,Isha Kapoor,T-Shirt,Clothing,Mumbai,4,12244,3682.84,Cash on Delivery
+2025-08-24,Aarav Sharma,Cycling Helmet,Sports,Nagpur,5,24600,1526.91,Debit Card
+2025-04-26,Riya Chatterjee,Vacuum Cleaner,Home Appliances,Indore,5,34735,12125.42,Net Banking
+2025-10-12,Vikram Desai,Rice Bag,Groceries,Ahmedabad,6,5316,797.36,Wallet
+2024-04-17,Tanya Shetty,Sofa,Furniture,Kolkata,8,167104,41571.31,Net Banking
+2025-07-17,Vivaan Gupta,Rice Bag,Groceries,Pune,5,3560,301.8,Net Banking
+2025-06-10,Vikram Desai,Camera,Electronics,Kolkata,1,13793,2834.9,Cash on Delivery
+2025-05-25,Rohan Mehta,Snacks Combo,Groceries,Bengaluru,4,2384,512.0,UPI
+2025-03-24,Amit Trivedi,Vacuum Cleaner,Home Appliances,Mumbai,1,21644,5035.73,Debit Card
+2025-12-27,Sai Kumar,Saree,Clothing,Bengaluru,9,17739,1382.98,Credit Card
+2025-04-17,Vihaan Nair,Microwave Oven,Home Appliances,Ahmedabad,5,88370,23119.67,Net Banking
+2025-05-09,Meera Nayak,Bookshelf,Furniture,Jaipur,3,81414,8726.21,Cash on Delivery
+2025-06-04,Pooja Agarwal,Wardrobe,Furniture,Mumbai,5,145965,22181.22,Cash on Delivery
+2024-09-30,Vikram Desai,Bluetooth Speaker,Electronics,Kochi,5,281920,63736.84,Wallet
+2025-05-16,Tanya Shetty,Bookshelf,Furniture,Jaipur,8,196944,29488.82,Cash on Delivery
+2025-01-21,Aadhya Pillai,Formal Shirt,Clothing,Chennai,4,10568,1742.57,Net Banking
+2024-02-14,Ananya Menon,Vacuum Cleaner,Home Appliances,Kochi,7,95557,33112.81,Wallet
+2024-06-04,Meera Nayak,Headphones,Electronics,Jaipur,10,232570,72308.36,Net Banking
+2024-04-12,Riya Chatterjee,Rice Bag,Groceries,Kochi,3,2667,830.18,Debit Card
+2024-03-17,Meera Nayak,Yoga Mat,Sports,Pune,10,58740,9941.45,Credit Card
+2024-12-02,Tanya Shetty,Water Heater,Home Appliances,Kolkata,6,129228,34324.92,Net Banking
+2025-07-08,Vivaan Gupta,Notebook,Stationery,Chennai,5,2425,664.52,Net Banking
+2024-04-10,Rahul Bhat,Fan,Home Appliances,Nagpur,2,31076,3104.79,UPI
+2024-01-30,Vivaan Gupta,Formal Shirt,Clothing,Bengaluru,5,8840,1436.08,Debit Card
+2024-09-07,Riya Chatterjee,Tea,Groceries,Chandigarh,3,1194,122.41,Cash on Delivery
+2025-01-26,Isha Kapoor,Microwave Oven,Home Appliances,Ahmedabad,10,56890,6807.26,Wallet
+2024-09-17,Aadhya Pillai,Sneakers,Clothing,Bengaluru,8,31928,4351.45,Cash on Delivery
+2024-06-10,Aditya Reddy,Wheat Flour,Groceries,Lucknow,5,4590,1180.06,Net Banking
+2024-11-05,Reyansh Rao,Snacks Combo,Groceries,Ahmedabad,2,1070,175.92,UPI
+2025-08-11,Ishaan Singh,Air Purifier,Home Appliances,Bengaluru,7,69958,3667.86,Wallet
+2024-02-20,Divya Menon,Marker Set,Stationery,Ahmedabad,5,2455,569.85,UPI
+2024-08-12,Rohan Mehta,Bed Frame,Furniture,Hyderabad,3,129516,10251.09,Wallet
+2025-10-23,Vivaan Gupta,Formal Shirt,Clothing,Ahmedabad,1,2673,426.23,Debit Card
+2024-04-02,Divya Menon,Jacket,Clothing,Kochi,7,7133,786.33,Cash on Delivery
+2025-01-09,Riya Chatterjee,Backpack,Stationery,Nagpur,3,1638,531.06,Net Banking
+2024-10-29,Pooja Agarwal,Yoga Mat,Sports,Surat,2,8072,2735.34,Debit Card
+2024-08-19,Tanya Shetty,Fan,Home Appliances,Chandigarh,7,134834,21537.37,Net Banking
+2024-01-15,Krishna Patel,Notebook,Stationery,Ahmedabad,6,8382,2302.56,UPI
+2025-08-21,Priya Das,Cycling Helmet,Sports,Pune,2,11456,1376.4,Credit Card
+2025-09-26,Amit Trivedi,Backpack,Stationery,Indore,10,4730,1155.52,Wallet
+2025-04-20,Divya Menon,Air Purifier,Home Appliances,Chandigarh,7,33761,3103.75,Credit Card
+2024-11-07,Meera Nayak,Laptop,Electronics,Chennai,9,93510,15578.18,UPI
+2025-11-17,Pooja Agarwal,Water Heater,Home Appliances,Kolkata,10,248090,23905.18,Net Banking
+2025-11-01,Vihaan Nair,Dumbbells,Sports,Lucknow,7,55244,18531.96,Credit Card
+2025-12-07,Diya Verma,Bookshelf,Furniture,Ahmedabad,4,103072,8225.8,Wallet
+2025-01-11,Kavya Bose,Air Purifier,Home Appliances,Bengaluru,7,70280,7515.92,Credit Card
+2025-04-10,Aditya Reddy,Microwave Oven,Home Appliances,Chandigarh,10,16990,1107.3,UPI
+2024-09-06,Arjun Iyer,Badminton Racket,Sports,Chennai,2,13994,3911.98,Debit Card
+2025-08-23,Reyansh Rao,Football,Sports,Pune,3,19980,6396.78,Credit Card
+2024-10-10,Tanya Shetty,Dining Table,Furniture,Jaipur,5,67175,5574.04,Credit Card
+2024-05-14,Aarav Sharma,Formal Shirt,Clothing,Surat,4,10844,1595.49,Debit Card
+2024-09-28,Vivaan Gupta,Coffee Table,Furniture,Kolkata,9,85032,23273.22,Net Banking
+2025-04-04,Rahul Bhat,Saree,Clothing,Lucknow,2,4302,865.35,Cash on Delivery
+2024-02-14,Pooja Agarwal,Cycling Helmet,Sports,Jaipur,5,19760,4801.72,Credit Card
+2024-03-03,Meera Nayak,Dumbbells,Sports,Kolkata,2,8432,2223.69,Net Banking
+2024-03-16,Amit Trivedi,Tablet,Electronics,Lucknow,3,17412,1529.77,Cash on Delivery
+2025-10-10,Anika Malhotra,Marker Set,Stationery,Pune,7,8701,1819.96,Net Banking
+2025-06-01,Isha Kapoor,Rice Bag,Groceries,Surat,2,2358,627.82,Debit Card
+2025-03-16,Aadhya Pillai,Bookshelf,Furniture,Pune,8,225048,39337.69,Credit Card
+2024-11-16,Saanvi Joshi,Sneakers,Clothing,Hyderabad,6,5550,1421.06,Net Banking
+2024-03-09,Aditya Reddy,Cricket Bat,Sports,Mumbai,7,6937,1896.41,UPI
+2024-05-13,Kavya Bose,Tablet,Electronics,Chandigarh,2,56844,8872.18,Wallet
+2025-03-09,Tanya Shetty,Mixer Grinder,Home Appliances,Hyderabad,10,112380,17474.4,Cash on Delivery
+2025-06-03,Reyansh Rao,Coffee Table,Furniture,Ahmedabad,4,36368,5638.28,Cash on Delivery
+2025-01-11,Vihaan Nair,Yoga Mat,Sports,Lucknow,4,27248,4870.14,Cash on Delivery
+2025-09-28,Isha Kapoor,Fan,Home Appliances,Jaipur,1,20955,6888.44,Wallet
+2024-09-30,Aarav Sharma,Sofa,Furniture,Kochi,5,121350,18846.51,Debit Card
+2024-05-26,Anika Malhotra,Vacuum Cleaner,Home Appliances,Mumbai,3,65241,22282.61,Credit Card
+2025-06-27,Reyansh Rao,Spices Pack,Groceries,Ahmedabad,6,2232,359.39,Wallet
+2024-11-28,Rahul Bhat,Sketch Kit,Stationery,Mumbai,1,338,32.86,Cash on Delivery
+2024-02-20,Karan Chawla,Bluetooth Speaker,Electronics,Ahmedabad,7,233296,54153.32,Net Banking
+2024-10-06,Reyansh Rao,Badminton Racket,Sports,Mumbai,6,22326,1859.02,Wallet
+2025-11-25,Anika Malhotra,Tea,Groceries,Chandigarh,5,715,83.05,Cash on Delivery
+2024-02-26,Aarav Sharma,Sofa,Furniture,Chennai,3,56235,7694.87,Credit Card
+2024-01-08,Meera Nayak,Vacuum Cleaner,Home Appliances,Delhi,3,40374,8469.44,Debit Card
+2025-05-27,Kavya Bose,Cycling Helmet,Sports,Surat,6,4740,801.64,Wallet
+2024-02-13,Saanvi Joshi,Camera,Electronics,Indore,2,115998,16694.22,Net Banking
+2025-08-10,Priya Das,Fan,Home Appliances,Kolkata,5,23870,4093.94,UPI
+2024-06-24,Sneha Rao,Desk Organizer,Stationery,Nagpur,6,1200,217.22,Credit Card
+2024-09-06,Saanvi Joshi,Desk Organizer,Stationery,Jaipur,2,1660,516.52,Wallet
+2024-12-13,Ayaan Khan,Formal Shirt,Clothing,Delhi,2,4780,1147.04,Cash on Delivery
+2025-06-06,Reyansh Rao,Yoga Mat,Sports,Pune,3,6405,517.79,UPI
+2024-07-21,Sai Kumar,Pen Set,Stationery,Surat,2,764,256.24,Wallet
+2025-05-20,Aadhya Pillai,Badminton Racket,Sports,Surat,10,38770,9860.76,Cash on Delivery
+2025-10-20,Rohan Mehta,Backpack,Stationery,Nagpur,6,1974,359.13,Net Banking
+2025-03-28,Rohan Mehta,Formal Shirt,Clothing,Hyderabad,10,5300,824.59,Credit Card
+2024-11-13,Aadhya Pillai,Rice Bag,Groceries,Bengaluru,6,3822,279.08,Credit Card
+2025-09-21,Isha Kapoor,Desk Organizer,Stationery,Ahmedabad,10,11550,3883.91,Wallet
+2024-02-12,Aadhya Pillai,Badminton Racket,Sports,Chandigarh,4,11332,2623.38,Cash on Delivery
+2024-06-03,Vivaan Gupta,Rice Bag,Groceries,Surat,6,1332,268.22,Debit Card
+2024-02-10,Ayaan Khan,Vacuum Cleaner,Home Appliances,Ahmedabad,9,163161,38006.99,UPI
+2025-01-16,Divya Menon,Kurta,Clothing,Kolkata,6,18480,4238.68,Wallet
+2025-10-24,Ananya Menon,Tablet,Electronics,Mumbai,9,413622,68648.54,UPI
+2025-11-03,Divya Menon,Pen Set,Stationery,Pune,2,2426,604.28,UPI
+2024-11-13,Rohan Mehta,Fan,Home Appliances,Kolkata,3,61494,16151.41,Credit Card
+2024-11-13,Kavya Bose,Coffee,Groceries,Surat,6,1866,468.43,Wallet
+2025-12-02,Divya Menon,Notebook,Stationery,Chandigarh,7,7427,1177.54,UPI
+2024-11-12,Sai Kumar,Sofa,Furniture,Surat,8,116664,13762.03,Debit Card
+2024-06-07,Aditya Reddy,Formal Shirt,Clothing,Surat,2,4758,1338.25,Wallet
+2025-06-23,Vivaan Gupta,Air Purifier,Home Appliances,Indore,10,52940,12132.47,Debit Card
+2024-06-15,Sai Kumar,Cycling Helmet,Sports,Surat,10,68270,21900.8,Wallet
+2025-03-24,Vivaan Gupta,Wheat Flour,Groceries,Chandigarh,4,3836,894.47,Wallet
+2025-04-04,Ayaan Khan,Pen Set,Stationery,Hyderabad,8,3336,534.94,Cash on Delivery
+2025-03-27,Aadhya Pillai,Yoga Mat,Sports,Surat,7,30233,6295.66,Debit Card
+2024-07-23,Sneha Rao,Pen Set,Stationery,Nagpur,5,630,152.68,UPI
+2025-07-21,Divya Menon,Laptop,Electronics,Hyderabad,2,103022,10105.81,Net Banking
+2025-06-09,Arjun Iyer,Dumbbells,Sports,Mumbai,4,27560,5107.93,UPI
+2024-01-28,Saanvi Joshi,Power Bank,Electronics,Jaipur,6,101706,16867.92,Credit Card
+2025-01-18,Ayaan Khan,Tablet,Electronics,Indore,2,112992,29876.36,UPI
+2024-05-29,Arjun Iyer,Bluetooth Speaker,Electronics,Indore,8,376936,112829.44,Wallet
+2025-04-25,Aadhya Pillai,Notebook,Stationery,Indore,2,116,14.71,Debit Card
+2025-07-15,Pooja Agarwal,Sketch Kit,Stationery,Kolkata,2,1220,147.98,Credit Card
+2024-02-18,Ayaan Khan,Coffee,Groceries,Surat,10,9860,678.78,Net Banking
+2025-09-03,Kavya Bose,Smartwatch,Electronics,Kochi,3,61764,11041.65,Cash on Delivery
+2024-12-27,Ayaan Khan,Desk Organizer,Stationery,Delhi,2,2184,747.79,Credit Card
+2025-06-22,Kavya Bose,Sketch Kit,Stationery,Jaipur,1,819,255.53,Credit Card
+2025-10-12,Priya Das,Jacket,Clothing,Kochi,1,1762,504.91,UPI
+2024-09-03,Pooja Agarwal,Fan,Home Appliances,Mumbai,10,118950,10708.22,UPI
+2025-07-13,Ananya Menon,Cycling Helmet,Sports,Delhi,8,47168,9129.81,Debit Card
+2024-05-18,Aditya Reddy,Vacuum Cleaner,Home Appliances,Bengaluru,5,38025,2400.97,Debit Card
+2024-02-12,Ananya Menon,Saree,Clothing,Kolkata,9,20151,2538.91,Wallet
+2024-07-14,Ishaan Singh,Formal Shirt,Clothing,Surat,1,3846,948.88,UPI
+2024-05-07,Sneha Rao,Kurta,Clothing,Indore,7,23408,4258.41,Net Banking
+2024-12-13,Sai Kumar,Coffee,Groceries,Ahmedabad,6,6678,868.25,Credit Card
+2025-03-10,Aditya Reddy,Tea,Groceries,Nagpur,3,3501,483.59,Credit Card
+2024-03-22,Ananya Menon,Air Purifier,Home Appliances,Hyderabad,8,165968,44031.12,Debit Card
+2025-12-07,Aadhya Pillai,Kurta,Clothing,Bengaluru,6,16908,5908.42,UPI
+2025-10-16,Sneha Rao,Laptop,Electronics,Chandigarh,7,177163,36128.11,Wallet
+2025-11-26,Sai Kumar,Headphones,Electronics,Nagpur,10,459390,130647.57,Credit Card
+2024-05-09,Aditya Reddy,Wardrobe,Furniture,Chandigarh,6,154398,25453.49,Cash on Delivery
+2024-02-03,Isha Kapoor,Coffee Table,Furniture,Ahmedabad,6,158280,28994.01,Credit Card
+2025-08-10,Arjun Iyer,Backpack,Stationery,Kolkata,6,8100,1082.22,Credit Card
+2024-01-27,Pooja Agarwal,Bookshelf,Furniture,Jaipur,7,271663,23180.54,UPI
+2025-12-21,Aadhya Pillai,Bed Frame,Furniture,Hyderabad,8,120944,10496.88,Credit Card
+2025-04-07,Sai Kumar,Vacuum Cleaner,Home Appliances,Mumbai,6,137298,21175.14,Credit Card
+2025-07-17,Kavya Bose,Jacket,Clothing,Nagpur,3,9645,2535.37,Wallet
+2025-10-15,Sai Kumar,Yoga Mat,Sports,Jaipur,4,4776,1650.3,Debit Card
+2024-08-30,Sneha Rao,Rice Bag,Groceries,Pune,9,7245,1378.16,Cash on Delivery
+2024-05-12,Isha Kapoor,Laptop,Electronics,Hyderabad,7,339388,90162.12,Cash on Delivery
+2025-02-24,Rahul Bhat,Snacks Combo,Groceries,Lucknow,2,612,209.13,Wallet
+2024-03-16,Aadhya Pillai,Coffee,Groceries,Jaipur,6,1872,586.66,Cash on Delivery
+2025-10-17,Anika Malhotra,Wardrobe,Furniture,Delhi,7,244685,79085.54,Credit Card
+2024-05-07,Riya Chatterjee,Sofa,Furniture,Delhi,3,69435,22942.81,Debit Card
+2024-12-20,Riya Chatterjee,Formal Shirt,Clothing,Mumbai,5,5520,1327.65,Cash on Delivery
+2024-10-08,Arjun Iyer,Air Purifier,Home Appliances,Lucknow,9,36549,7338.01,Debit Card
+2025-08-29,Anika Malhotra,Dining Table,Furniture,Chandigarh,10,416580,63022.67,Cash on Delivery
+2024-02-12,Vikram Desai,Cricket Bat,Sports,Mumbai,1,7970,1932.22,Cash on Delivery
+2024-09-28,Rohan Mehta,Wardrobe,Furniture,Lucknow,7,297556,71918.5,Net Banking
+2025-10-04,Kavya Bose,Sneakers,Clothing,Hyderabad,8,10424,3037.62,Wallet
+2025-02-19,Ishaan Singh,Rice Bag,Groceries,Kochi,1,373,67.84,Net Banking
+2025-04-20,Reyansh Rao,Saree,Clothing,Delhi,6,22968,6098.21,Wallet
+2024-12-19,Priya Das,Wardrobe,Furniture,Pune,9,349272,28589.72,Debit Card
+2025-04-22,Vihaan Nair,Kurta,Clothing,Chennai,3,2088,136.1,Net Banking
+2025-09-22,Saanvi Joshi,Wardrobe,Furniture,Indore,3,70374,23232.25,Wallet
+2024-11-16,Reyansh Rao,Football,Sports,Ahmedabad,9,36216,7229.72,UPI
+2025-05-24,Aarav Sharma,Power Bank,Electronics,Jaipur,8,138208,15830.8,UPI
+2024-02-19,Vivaan Gupta,Kurta,Clothing,Lucknow,8,11760,2481.44,Credit Card
+2025-03-17,Arjun Iyer,Sneakers,Clothing,Pune,7,12586,800.13,Credit Card
+2025-08-06,Kavya Bose,Sofa,Furniture,Jaipur,5,34090,5655.69,Net Banking
+2025-07-17,Krishna Patel,Badminton Racket,Sports,Chandigarh,10,11730,1039.27,Credit Card
+2025-02-07,Diya Verma,Yoga Mat,Sports,Jaipur,6,38304,3573.01,Cash on Delivery
+2025-06-05,Priya Das,Notebook,Stationery,Bengaluru,1,300,79.22,Net Banking
+2025-06-15,Aadhya Pillai,Bed Frame,Furniture,Indore,9,100440,14904.27,Cash on Delivery
+2024-11-22,Sai Kumar,Tea,Groceries,Kochi,5,3690,746.1,Cash on Delivery
+2025-06-29,Meera Nayak,Water Heater,Home Appliances,Hyderabad,8,12360,1983.87,Wallet
+2024-04-22,Saanvi Joshi,Backpack,Stationery,Surat,1,1242,238.93,Wallet
+2025-08-15,Anika Malhotra,Coffee Table,Furniture,Bengaluru,10,334860,33872.3,Wallet
+2025-09-26,Rahul Bhat,Dumbbells,Sports,Delhi,4,1832,406.28,Wallet
+2024-04-22,Reyansh Rao,Camera,Electronics,Pune,7,79968,13905.48,Debit Card
+2025-02-24,Riya Chatterjee,Badminton Racket,Sports,Indore,8,58800,17905.37,Wallet
+2024-03-04,Neha Kulkarni,Bed Frame,Furniture,Chennai,9,209718,73283.2,Net Banking
+2025-06-22,Priya Das,Jeans,Clothing,Ahmedabad,9,15318,3276.24,Wallet
+2025-11-28,Rohan Mehta,Cycling Helmet,Sports,Hyderabad,10,41660,4485.92,Debit Card
+2024-10-12,Kavya Bose,Jeans,Clothing,Hyderabad,5,15935,1787.64,Wallet
+2025-05-15,Ananya Menon,Wheat Flour,Groceries,Jaipur,5,3195,276.57,Wallet
+2025-07-10,Priya Das,Snacks Combo,Groceries,Pune,3,1932,120.98,Wallet
+2024-03-21,Diya Verma,Coffee,Groceries,Hyderabad,8,3904,431.86,Cash on Delivery
+2024-10-04,Divya Menon,Marker Set,Stationery,Hyderabad,3,729,171.1,Cash on Delivery
+2024-09-02,Ayaan Khan,Smartwatch,Electronics,Chandigarh,4,19760,1581.97,UPI
+2025-04-28,Vihaan Nair,Microwave Oven,Home Appliances,Bengaluru,9,55575,9562.91,Net Banking
+2025-05-03,Rohan Mehta,Wardrobe,Furniture,Hyderabad,6,124224,30282.01,Credit Card
+2025-10-29,Anika Malhotra,Bed Frame,Furniture,Kochi,1,13473,2362.7,Debit Card
+2024-02-07,Vikram Desai,Snacks Combo,Groceries,Ahmedabad,3,1926,602.88,Credit Card
+2024-11-01,Anika Malhotra,Notebook,Stationery,Indore,6,3612,672.93,Wallet
+2025-07-10,Riya Chatterjee,Cooking Oil,Groceries,Nagpur,9,9072,1196.15,Credit Card
+2024-12-04,Sai Kumar,Vacuum Cleaner,Home Appliances,Chandigarh,5,122735,12992.69,Wallet
+2024-12-11,Sneha Rao,Saree,Clothing,Chandigarh,4,4072,949.94,Wallet
+2025-02-19,Vikram Desai,Tea,Groceries,Pune,2,1740,436.35,Debit Card
+2024-05-23,Meera Nayak,Jeans,Clothing,Bengaluru,5,9355,1128.74,UPI
+2024-12-03,Ishaan Singh,Marker Set,Stationery,Lucknow,1,555,136.59,Wallet
+2024-08-29,Vivaan Gupta,Mixer Grinder,Home Appliances,Ahmedabad,5,31165,5348.69,Cash on Delivery
+2025-12-21,Rahul Bhat,Sneakers,Clothing,Mumbai,5,9025,2115.35,Debit Card
+2024-05-16,Meera Nayak,Bookshelf,Furniture,Kochi,10,264850,46283.51,Cash on Delivery
+2025-04-27,Rahul Bhat,Marker Set,Stationery,Nagpur,4,2104,534.63,Cash on Delivery
+2024-03-24,Riya Chatterjee,Tea,Groceries,Kochi,6,1254,407.77,Credit Card
+2024-03-04,Vikram Desai,Sketch Kit,Stationery,Chennai,10,11190,1062.55,UPI
+2025-06-16,Aadhya Pillai,Smartwatch,Electronics,Kochi,10,335350,25916.68,Cash on Delivery
+2025-04-01,Sneha Rao,Camera,Electronics,Delhi,9,258525,48354.4,Credit Card
+2025-07-26,Aadhya Pillai,Air Purifier,Home Appliances,Kochi,1,13974,1765.44,Credit Card
+2024-08-11,Anika Malhotra,Smartphone,Electronics,Kolkata,6,284400,19660.0,Credit Card
+2024-03-11,Divya Menon,Rice Bag,Groceries,Hyderabad,7,2926,821.3,Wallet
+2025-10-23,Saanvi Joshi,Kurta,Clothing,Ahmedabad,7,12866,953.05,Wallet
+2025-07-06,Arjun Iyer,Air Purifier,Home Appliances,Mumbai,3,55812,9371.82,Debit Card
+2024-08-16,Vikram Desai,Smartphone,Electronics,Hyderabad,8,365104,97018.43,Net Banking
+2025-06-28,Priya Das,Football,Sports,Chennai,8,24280,2343.9,Debit Card
+2024-04-25,Vivaan Gupta,Cycling Helmet,Sports,Kolkata,10,64750,21423.92,Credit Card
+2024-09-03,Reyansh Rao,Laptop,Electronics,Lucknow,1,30757,7053.67,Wallet
+2024-02-19,Ayaan Khan,Mixer Grinder,Home Appliances,Kolkata,8,69424,14712.89,Credit Card
+2024-05-23,Riya Chatterjee,Jeans,Clothing,Nagpur,10,16060,3585.27,Wallet
+2024-11-24,Ayaan Khan,Jeans,Clothing,Chandigarh,9,10845,1887.77,UPI
+2024-03-03,Kavya Bose,Marker Set,Stationery,Indore,3,3906,990.66,Cash on Delivery
+2025-05-22,Vivaan Gupta,Sneakers,Clothing,Chandigarh,7,24626,5105.93,Wallet
+2025-03-02,Saanvi Joshi,Sofa,Furniture,Kolkata,3,111759,21463.95,Debit Card
+2024-11-03,Tanya Shetty,Microwave Oven,Home Appliances,Surat,8,23104,5053.21,Net Banking
+2025-07-24,Riya Chatterjee,Bookshelf,Furniture,Chennai,5,76625,11423.17,Credit Card
+2025-04-05,Tanya Shetty,T-Shirt,Clothing,Jaipur,4,2044,266.82,Wallet
+2025-09-11,Isha Kapoor,Laptop,Electronics,Chennai,10,489680,123122.77,Debit Card
+2025-05-05,Reyansh Rao,Yoga Mat,Sports,Hyderabad,1,1935,640.77,Wallet
+2024-04-30,Pooja Agarwal,Dumbbells,Sports,Indore,4,23592,5457.31,Debit Card
+2025-02-10,Divya Menon,Bed Frame,Furniture,Pune,5,134735,25582.83,Wallet
+2025-01-02,Ishaan Singh,Jacket,Clothing,Jaipur,8,17664,1405.74,Wallet
+2025-04-25,Rahul Bhat,Yoga Mat,Sports,Indore,4,12944,1862.34,Credit Card
+2025-07-30,Tanya Shetty,Coffee Table,Furniture,Delhi,1,19090,4123.32,Cash on Delivery
+2025-08-16,Pooja Agarwal,Wheat Flour,Groceries,Delhi,4,2900,345.12,Cash on Delivery
+2024-09-08,Meera Nayak,Marker Set,Stationery,Chandigarh,6,3282,915.7,Net Banking
+2025-10-19,Pooja Agarwal,Spices Pack,Groceries,Delhi,6,2376,218.56,Cash on Delivery
+2025-05-15,Sai Kumar,Marker Set,Stationery,Bengaluru,9,801,241.68,Credit Card
+2025-11-15,Vivaan Gupta,Cricket Bat,Sports,Kolkata,3,21306,5096.62,Credit Card
+2025-12-25,Arjun Iyer,Smartwatch,Electronics,Jaipur,8,207664,14149.19,Wallet
+2025-11-13,Divya Menon,Desk Organizer,Stationery,Chandigarh,8,416,21.63,Cash on Delivery
+2025-02-25,Aarav Sharma,Bluetooth Speaker,Electronics,Jaipur,5,13115,2631.72,Wallet
+2025-11-21,Saanvi Joshi,Football,Sports,Mumbai,2,8990,851.08,Debit Card
+2025-09-26,Riya Chatterjee,Formal Shirt,Clothing,Pune,5,17780,3006.05,UPI
+2025-02-19,Aadhya Pillai,Pen Set,Stationery,Kochi,4,2536,647.22,Credit Card
+2025-10-31,Tanya Shetty,Mixer Grinder,Home Appliances,Mumbai,7,93989,15334.39,Net Banking
+2024-02-27,Rohan Mehta,Headphones,Electronics,Mumbai,8,455192,82013.26,UPI
+2025-08-02,Tanya Shetty,Smartphone,Electronics,Chennai,4,233568,60187.28,Cash on Delivery
+2025-05-01,Krishna Patel,Laptop,Electronics,Chandigarh,5,185440,40621.18,Credit Card
+2024-07-02,Divya Menon,Yoga Mat,Sports,Bengaluru,4,20032,1868.13,Wallet
+2025-02-11,Divya Menon,Bluetooth Speaker,Electronics,Delhi,10,172590,37971.31,Net Banking
+2025-11-24,Amit Trivedi,Backpack,Stationery,Kolkata,3,4293,1147.3,Cash on Delivery
+2024-12-20,Vivaan Gupta,Power Bank,Electronics,Chennai,2,47642,11031.53,Cash on Delivery
+2025-09-01,Priya Das,Yoga Mat,Sports,Bengaluru,5,33090,11507.9,Net Banking
+2024-08-21,Diya Verma,Desk Organizer,Stationery,Kolkata,3,4236,956.33,Net Banking
+2024-03-28,Rahul Bhat,Backpack,Stationery,Surat,4,5920,426.55,UPI
+2024-06-06,Priya Das,Fan,Home Appliances,Delhi,7,79632,12598.58,Credit Card
+2024-01-06,Ishaan Singh,Wheat Flour,Groceries,Surat,5,1295,116.23,Debit Card
+2025-03-17,Aadhya Pillai,Sketch Kit,Stationery,Jaipur,7,1617,93.59,UPI
+2025-07-21,Aditya Reddy,Sketch Kit,Stationery,Surat,6,4848,260.35,Net Banking
+2025-02-01,Rahul Bhat,Smartwatch,Electronics,Lucknow,9,113517,29014.35,Debit Card
+2024-05-22,Krishna Patel,Jacket,Clothing,Ahmedabad,3,1677,167.97,UPI
+2025-03-07,Ishaan Singh,Snacks Combo,Groceries,Mumbai,6,3390,1129.77,Wallet
+2025-10-02,Meera Nayak,Sketch Kit,Stationery,Chennai,8,1912,173.32,Credit Card
+2025-02-09,Ananya Menon,Badminton Racket,Sports,Kolkata,6,22836,3435.01,Wallet
+2025-08-31,Arjun Iyer,Jacket,Clothing,Lucknow,4,9048,1305.22,Net Banking
+2024-11-22,Ishaan Singh,Fan,Home Appliances,Chandigarh,8,158960,45238.79,UPI
+2025-01-20,Krishna Patel,Dumbbells,Sports,Pune,2,15670,3434.16,Cash on Delivery
+2025-07-12,Sai Kumar,Water Heater,Home Appliances,Bengaluru,8,193688,21866.31,UPI
+2025-12-10,Aditya Reddy,Dumbbells,Sports,Chandigarh,8,10720,2572.81,Debit Card
+2024-09-15,Karan Chawla,Coffee Table,Furniture,Kolkata,7,47929,8853.45,Cash on Delivery
+2025-05-05,Anika Malhotra,Tea,Groceries,Jaipur,7,8141,496.84,UPI
+2025-12-19,Amit Trivedi,Badminton Racket,Sports,Lucknow,2,2190,614.7,Wallet
+2025-11-11,Diya Verma,Coffee Table,Furniture,Lucknow,1,38911,13427.5,Wallet
+2025-10-24,Priya Das,Yoga Mat,Sports,Surat,7,7469,397.08,UPI
+2024-08-15,Riya Chatterjee,Water Heater,Home Appliances,Jaipur,10,235330,52377.54,Net Banking
+2025-01-18,Priya Das,Snacks Combo,Groceries,Chandigarh,10,10740,1022.7,Credit Card
+2025-05-09,Vihaan Nair,Kurta,Clothing,Indore,2,1550,464.06,Wallet
+2024-05-25,Diya Verma,Jacket,Clothing,Ahmedabad,4,9736,1897.33,Net Banking
+2024-04-09,Aadhya Pillai,Fan,Home Appliances,Ahmedabad,6,19206,2690.36,Wallet
+2024-04-27,Aarav Sharma,Yoga Mat,Sports,Chandigarh,2,11494,3333.43,Wallet
+2024-09-06,Riya Chatterjee,Bed Frame,Furniture,Delhi,6,232140,41300.22,Net Banking
+2024-08-25,Sneha Rao,Coffee,Groceries,Delhi,3,2805,473.13,Wallet
+2025-09-20,Amit Trivedi,Bookshelf,Furniture,Lucknow,7,192374,9875.52,Debit Card
+2024-07-29,Krishna Patel,Cycling Helmet,Sports,Surat,2,9858,793.82,Cash on Delivery
+2024-07-10,Diya Verma,Jeans,Clothing,Ahmedabad,2,2748,690.33,Net Banking
+2025-06-24,Rohan Mehta,Saree,Clothing,Kolkata,10,19070,4311.75,UPI
+2024-12-26,Tanya Shetty,Tea,Groceries,Delhi,5,1115,280.57,UPI
+2024-04-30,Ayaan Khan,T-Shirt,Clothing,Delhi,6,18840,1740.96,Net Banking
+2025-03-04,Isha Kapoor,Bed Frame,Furniture,Kolkata,7,99211,19445.46,Cash on Delivery
+2025-12-11,Divya Menon,Microwave Oven,Home Appliances,Jaipur,3,51132,6987.21,Debit Card
+2024-11-18,Vikram Desai,Tea,Groceries,Bengaluru,6,414,80.89,Debit Card
+2025-01-28,Kavya Bose,Marker Set,Stationery,Ahmedabad,7,9954,1966.09,Wallet
+2025-03-30,Meera Nayak,Office Chair,Furniture,Lucknow,1,16452,2264.24,UPI
+2024-08-18,Kavya Bose,Jeans,Clothing,Surat,8,20928,5708.23,Net Banking
+2025-07-16,Riya Chatterjee,Laptop,Electronics,Hyderabad,9,499086,173316.64,Cash on Delivery
+2024-02-12,Rahul Bhat,Vacuum Cleaner,Home Appliances,Jaipur,4,59724,4821.22,Wallet
+2024-09-10,Ishaan Singh,Cricket Bat,Sports,Ahmedabad,5,15275,4714.78,Credit Card
+2025-03-25,Tanya Shetty,Smartwatch,Electronics,Chennai,10,466630,72415.96,Wallet
+2025-09-16,Rohan Mehta,Cooking Oil,Groceries,Lucknow,3,1419,417.27,Credit Card
+2025-08-06,Diya Verma,Backpack,Stationery,Lucknow,9,3276,481.89,Wallet
+2024-10-26,Ishaan Singh,Backpack,Stationery,Nagpur,9,12699,3740.54,Debit Card
+2025-02-25,Divya Menon,Bluetooth Speaker,Electronics,Nagpur,3,142404,44120.13,Debit Card
+2024-05-29,Neha Kulkarni,Formal Shirt,Clothing,Chennai,7,16128,1494.28,Wallet
+2024-10-02,Rohan Mehta,Spices Pack,Groceries,Ahmedabad,2,480,82.01,Wallet
+2024-10-11,Neha Kulkarni,Kurta,Clothing,Ahmedabad,6,16098,816.84,Wallet
+2024-04-05,Pooja Agarwal,Coffee,Groceries,Chandigarh,6,1074,310.07,Net Banking
+2024-08-11,Saanvi Joshi,Football,Sports,Ahmedabad,5,14220,4244.71,UPI
+2025-07-14,Anika Malhotra,Bed Frame,Furniture,Nagpur,8,196216,62445.04,Credit Card
+2024-02-17,Vihaan Nair,Vacuum Cleaner,Home Appliances,Bengaluru,2,12352,2252.83,Credit Card
+2025-03-14,Reyansh Rao,Microwave Oven,Home Appliances,Indore,5,31045,9696.19,UPI
+2024-04-05,Rohan Mehta,Jacket,Clothing,Mumbai,6,18126,5820.99,Debit Card
+2024-02-23,Priya Das,Air Purifier,Home Appliances,Kochi,4,60260,14862.86,Wallet
+2024-04-07,Aarav Sharma,Bookshelf,Furniture,Mumbai,3,122721,14463.56,Wallet
+2025-03-31,Aarav Sharma,Tablet,Electronics,Nagpur,2,115766,20455.18,Debit Card
+2025-05-04,Aditya Reddy,Bookshelf,Furniture,Mumbai,2,17526,2523.84,UPI
+2024-05-20,Priya Das,Football,Sports,Chandigarh,3,2280,476.87,Credit Card
+2025-09-16,Rohan Mehta,Bookshelf,Furniture,Pune,4,172644,47387.44,Net Banking
+2025-09-22,Karan Chawla,Snacks Combo,Groceries,Chennai,2,510,46.92,Credit Card
+2025-08-26,Pooja Agarwal,Wheat Flour,Groceries,Kolkata,6,2016,250.66,Wallet
+2024-03-27,Ayaan Khan,Sketch Kit,Stationery,Lucknow,10,6030,1710.66,Wallet
+2024-01-28,Tanya Shetty,Cycling Helmet,Sports,Indore,5,9415,1933.13,Cash on Delivery
+2024-07-12,Pooja Agarwal,Wheat Flour,Groceries,Chandigarh,1,540,107.17,Credit Card
+2024-09-03,Meera Nayak,Water Heater,Home Appliances,Mumbai,9,12555,4344.84,UPI
+2024-05-15,Priya Das,Badminton Racket,Sports,Kolkata,6,28050,7149.46,Net Banking
+2024-03-15,Aarav Sharma,Notebook,Stationery,Bengaluru,5,2305,142.79,Credit Card
+2025-02-11,Riya Chatterjee,Sneakers,Clothing,Kochi,9,30978,5409.68,Wallet
+2025-02-15,Aditya Reddy,Water Heater,Home Appliances,Jaipur,10,60030,7998.42,UPI
+2024-03-21,Riya Chatterjee,Wardrobe,Furniture,Delhi,9,210717,35235.98,Wallet
+2025-10-27,Karan Chawla,Mixer Grinder,Home Appliances,Hyderabad,7,174433,58614.44,Debit Card
+2024-02-29,Ayaan Khan,Power Bank,Electronics,Mumbai,8,333016,77476.08,UPI
+2025-11-13,Pooja Agarwal,Fan,Home Appliances,Delhi,2,2830,742.51,Wallet
+2024-01-12,Sai Kumar,Wheat Flour,Groceries,Jaipur,9,5220,522.46,Debit Card
+2024-10-02,Pooja Agarwal,Smartphone,Electronics,Pune,7,135268,28021.61,UPI
+2025-12-30,Anika Malhotra,Mixer Grinder,Home Appliances,Ahmedabad,8,141896,22424.84,Net Banking
+2025-08-03,Sai Kumar,Jeans,Clothing,Hyderabad,2,7924,1760.5,Wallet
+2024-04-28,Ayaan Khan,Water Heater,Home Appliances,Bengaluru,1,1402,172.96,Net Banking
+2025-01-07,Priya Das,Dining Table,Furniture,Indore,1,38232,11123.01,Wallet
+2025-11-02,Saanvi Joshi,Sofa,Furniture,Chennai,7,160769,21121.41,Credit Card
+2025-08-08,Diya Verma,Smartphone,Electronics,Delhi,4,216852,44396.6,Credit Card
+2025-02-14,Aditya Reddy,Snacks Combo,Groceries,Hyderabad,5,3600,273.3,Net Banking
+2024-01-09,Diya Verma,Sofa,Furniture,Lucknow,5,214050,26280.03,UPI
+2025-08-28,Meera Nayak,Football,Sports,Kochi,9,57861,16709.8,Debit Card
+2024-01-07,Divya Menon,Rice Bag,Groceries,Chennai,9,6831,1644.79,Wallet
+2024-01-10,Ananya Menon,Power Bank,Electronics,Nagpur,5,41560,4636.36,Debit Card
+2025-03-05,Meera Nayak,Headphones,Electronics,Kochi,5,37980,2399.2,Debit Card
+2025-06-16,Saanvi Joshi,Air Purifier,Home Appliances,Ahmedabad,2,40060,3151.64,Debit Card
+2025-10-14,Vikram Desai,Rice Bag,Groceries,Lucknow,10,1770,319.48,Debit Card
+2024-08-30,Ishaan Singh,Formal Shirt,Clothing,Pune,7,22190,6647.46,UPI
+2024-11-21,Aadhya Pillai,Jeans,Clothing,Mumbai,4,3428,973.49,Cash on Delivery
+2024-04-21,Arjun Iyer,Headphones,Electronics,Ahmedabad,8,176640,30373.91,Cash on Delivery
+2025-01-01,Rahul Bhat,Bookshelf,Furniture,Hyderabad,8,154936,47370.85,Credit Card
+2024-06-10,Sneha Rao,Air Purifier,Home Appliances,Nagpur,10,23210,2657.69,UPI
+2024-05-31,Aditya Reddy,Microwave Oven,Home Appliances,Pune,7,124775,8071.09,UPI
+2024-09-23,Vikram Desai,Office Chair,Furniture,Kolkata,8,307472,84377.55,Debit Card
+2024-04-06,Aadhya Pillai,Headphones,Electronics,Mumbai,1,5541,1657.38,Debit Card
+2024-05-13,Reyansh Rao,Dumbbells,Sports,Pune,2,9940,2244.81,Credit Card
+2024-01-23,Aditya Reddy,Coffee Table,Furniture,Ahmedabad,3,24081,7742.6,UPI
+2024-05-05,Vivaan Gupta,Rice Bag,Groceries,Delhi,10,9370,2778.26,Net Banking
+2025-05-23,Aarav Sharma,Coffee,Groceries,Kolkata,3,2322,265.67,Debit Card
+2024-10-08,Krishna Patel,Cooking Oil,Groceries,Bengaluru,10,5530,1350.33,Net Banking
+2025-02-25,Amit Trivedi,Desk Organizer,Stationery,Bengaluru,2,1184,195.25,Net Banking
+2024-07-23,Rohan Mehta,Badminton Racket,Sports,Chennai,9,60399,3373.83,Net Banking
+2025-12-31,Diya Verma,Tea,Groceries,Surat,8,6032,1953.18,Cash on Delivery
+2024-11-25,Priya Das,Jeans,Clothing,Bengaluru,6,16470,1905.68,UPI
+2024-02-29,Sneha Rao,Tea,Groceries,Pune,10,5260,1799.94,Credit Card
+2024-09-10,Karan Chawla,Sofa,Furniture,Jaipur,1,16379,3647.73,Net Banking
+2024-12-29,Divya Menon,Football,Sports,Delhi,4,20212,2938.85,Wallet
+2025-12-15,Diya Verma,Notebook,Stationery,Kochi,6,7092,1553.73,Cash on Delivery
+2024-07-11,Vikram Desai,Dumbbells,Sports,Jaipur,5,8190,1614.5,Credit Card
+2024-02-27,Ayaan Khan,Pen Set,Stationery,Bengaluru,9,8982,450.94,Cash on Delivery
+2024-07-25,Sneha Rao,Sofa,Furniture,Kochi,3,69618,4724.75,Debit Card
+2025-08-23,Neha Kulkarni,Wardrobe,Furniture,Mumbai,9,233217,78866.44,UPI
+2025-12-22,Karan Chawla,Tea,Groceries,Mumbai,6,4008,588.3,Debit Card
+2025-03-23,Sneha Rao,Vacuum Cleaner,Home Appliances,Chandigarh,6,40248,10551.21,Cash on Delivery
+2025-12-11,Amit Trivedi,Backpack,Stationery,Chennai,10,3790,619.72,Wallet
+2025-12-06,Ishaan Singh,Dining Table,Furniture,Kochi,1,39541,6622.34,Cash on Delivery
+2024-02-03,Sai Kumar,Backpack,Stationery,Indore,10,4720,1141.74,Credit Card
+2025-05-23,Arjun Iyer,Sneakers,Clothing,Mumbai,4,6880,2371.63,Debit Card
+2025-10-13,Amit Trivedi,Tablet,Electronics,Ahmedabad,1,18880,2131.65,Wallet
+2024-03-10,Diya Verma,Formal Shirt,Clothing,Mumbai,1,497,82.39,Wallet
+2025-03-05,Sai Kumar,Spices Pack,Groceries,Indore,7,5383,1150.92,Credit Card
+2025-05-05,Sneha Rao,Badminton Racket,Sports,Chandigarh,4,6128,1136.05,Credit Card
+2024-10-28,Aarav Sharma,Jacket,Clothing,Mumbai,2,3400,343.51,Net Banking
+2024-06-13,Pooja Agarwal,Laptop,Electronics,Pune,10,417150,132640.29,Wallet
+2024-02-01,Saanvi Joshi,Microwave Oven,Home Appliances,Lucknow,7,43029,2842.79,UPI
+2024-07-29,Reyansh Rao,Coffee,Groceries,Jaipur,9,5337,1324.53,UPI
+2024-08-31,Vihaan Nair,Power Bank,Electronics,Lucknow,9,508860,100390.18,Credit Card
+2025-01-04,Aarav Sharma,Rice Bag,Groceries,Hyderabad,10,10330,1135.29,Credit Card
+2024-07-30,Sai Kumar,Air Purifier,Home Appliances,Mumbai,8,38272,5453.99,Net Banking
+2025-04-27,Meera Nayak,Air Purifier,Home Appliances,Mumbai,9,123282,13001.86,Net Banking
+2025-01-13,Sai Kumar,Rice Bag,Groceries,Hyderabad,8,8016,1034.23,UPI
+2025-07-31,Vivaan Gupta,Wardrobe,Furniture,Kochi,2,15232,3814.74,Cash on Delivery
+2025-02-27,Rahul Bhat,Pen Set,Stationery,Jaipur,1,812,239.96,Net Banking
+2025-07-02,Karan Chawla,Dumbbells,Sports,Lucknow,4,16404,2290.91,Net Banking
+2024-02-05,Riya Chatterjee,Sketch Kit,Stationery,Surat,10,14070,4851.71,Debit Card
