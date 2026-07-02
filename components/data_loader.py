@@ -9,16 +9,6 @@ import os
 
 load_dotenv()
 
-host = os.getenv("MYSQL_HOST")
-port = os.getenv("MYSQL_PORT")
-user = os.getenv("MYSQL_USER")
-password = quote_plus(os.getenv("MYSQL_PASSWORD"))
-database = os.getenv("MYSQL_DATABASE")
-
-# Create MySQL database connection
-engine = create_engine(
-    f"mysql+pymysql://{user}:{password}@{host}:{port}/{database}"
-)
 
 @st.cache_data
 def load_data(uploaded_file=None):
@@ -36,12 +26,28 @@ def load_data(uploaded_file=None):
     ]
 
     if uploaded_file is None:
+
         try:
+            host = os.getenv("MYSQL_HOST")
+            port = os.getenv("MYSQL_PORT")
+            user = os.getenv("MYSQL_USER")
+            password = os.getenv("MYSQL_PASSWORD")
+            database = os.getenv("MYSQL_DATABASE")
+
+            if not all([host, port, user, password, database]):
+                raise Exception("MySQL credentials not found")
+
+            engine = create_engine(
+                f"mysql+pymysql://{user}:{quote_plus(password)}@{host}:{port}/{database}"
+            )
+
             df = pd.read_sql("SELECT * FROM retail_sales", engine)
+
         except Exception:
             df = pd.read_csv("data/raw/sales.csv")
 
     else:
+
         filename = uploaded_file.name.lower()
 
         if filename.endswith(".csv"):
