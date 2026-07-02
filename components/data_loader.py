@@ -36,7 +36,10 @@ def load_data(uploaded_file=None):
     ]
 
     if uploaded_file is None:
-        df = pd.read_sql("SELECT * FROM retail_sales", engine)
+        try:
+            df = pd.read_sql("SELECT * FROM retail_sales", engine)
+        except Exception:
+            df = pd.read_csv("data/raw/sales.csv")
 
     else:
         filename = uploaded_file.name.lower()
