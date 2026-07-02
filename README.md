@@ -12,15 +12,54 @@ This project was developed as a portfolio project to demonstrate practical Data 
 - 💰 Sales Performance Analysis
 - 👥 Customer Analysis
 - 📦 Product Analysis
-- 🤖 AI Sales Forecast
+- 📊 Business Analytics Dashboard
+- 🤖 AI-Powered Sales Forecast
 - 📊 Data Quality Report
 - 💡 Business Recommendations
-- 📤 Export Reports
+- 📤 Export Reports (CSV)
 - 🔍 Interactive Dashboard Filters
 - 🗄️ MySQL Database Integration
-- ⚡ Fast Interactive Visualizations
+- ⚡ Interactive Plotly Visualizations
+- 📱 Responsive Streamlit Interface
 
 ---
+# 📸 Dashboard Preview
+
+## 📊 Executive Dashboard
+
+![Executive Dashboard](screenshots/executive_dashboard.png)
+
+---
+
+## 📈 Sales Dashboard
+
+![Sales Dashboard](screenshots/sales_dashboard.png)
+
+---
+
+## 👥 Customer Dashboard
+
+![Customer Dashboard](screenshots/customer_dashboard.png)
+
+---
+
+## 📦 Product Dashboard
+
+![Product Dashboard](screenshots/product_dashboard.png)
+
+---
+
+## 📊 Business Analytics
+
+![Business Analytics](screenshots/analytics_dashboard.png)
+
+---
+
+## 🤖 AI Sales Forecast
+
+---
+
+![AI Sales Forecast](screenshots/ai_forecast.png)
 
 # 🛠️ Tech Stack
 

@@ -97,16 +97,17 @@ st.divider()
 
 # Dashboard Tabs
 
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "📋 Data",
     "📊 Executive",
     "📈 Sales",
     "👥 Customers",
     "📦 Products",
+    "📊 Analytics",
     "🤖 AI Forecast"
 ])
 
-# Data Tab
+#  Data 
 
 with tab1:
 
@@ -131,7 +132,7 @@ with tab1:
         mime="text/csv"
     )
 
-# Executive Dashboard
+#  Executive 
 
 with tab2:
 
@@ -153,33 +154,11 @@ with tab2:
 
     show_customer_segmentation(df)
 
-# Customer Analytics
+#  Sales 
 
 with tab3:
 
-    st.subheader("👥 Customer Analytics")
-
-    show_top_customers(df)
-
-# Product Analytics
-
-with tab4:
-
-    st.subheader("📦 Product Analytics")
-
-    show_top_products_profit(df)
-
-# AI Forecast
-
-with tab5:
-
-    show_ai_forecast(df)
-
-# Business Analytics
-
-with tab6:
-
-    st.subheader("📊 Business Analytics")
+    st.subheader("📈 Sales Analytics")
 
     col1, col2 = st.columns(2)
 
@@ -189,20 +168,48 @@ with tab6:
     with col2:
         show_profit_chart(df)
 
-    col3, col4 = st.columns(2)
-
-    with col3:
-        show_city_chart(df)
-
-    with col4:
-        show_payment_chart(df)
-
-    st.divider()
-
-    show_top_selling_products(df)
-
     st.divider()
 
     st.subheader("📈 Monthly Revenue vs Profit Trend")
 
     show_monthly_trend(df)
+
+#  Customers 
+
+with tab4:
+
+    st.subheader("👥 Customer Analytics")
+
+    show_top_customers(df)
+
+#  Products
+
+with tab5:
+
+    st.subheader("📦 Product Analytics")
+
+    show_top_products_profit(df)
+
+    st.divider()
+
+    show_top_selling_products(df)
+
+#  Business Analytics 
+
+with tab6:
+
+    st.subheader("📊 Business Analytics")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        show_city_chart(df)
+
+    with col2:
+        show_payment_chart(df)
+
+#  AI Forecast 
+
+with tab7:
+
+    show_ai_forecast(df)
