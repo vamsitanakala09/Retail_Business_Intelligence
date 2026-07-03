@@ -155,7 +155,7 @@ Export processed reports for further analysis.
 ## Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/vamsitanakala09/Retail_Business_Intelligence.git
 ```
 
 ## Navigate to the project
